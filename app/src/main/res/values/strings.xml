@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">TIankuai</string>
+
+    <!--我-->
+    <string name="exit">退出登录</string>
+    <string name="my">我</string>
+    <string name="name">姓名</string>
+    <string name="phone">电话</string>
+    <string name="address">家庭住址</string>
+    <string name="crop_area">面积</string>
+    <string name="crop_name">作物名称</string>
+    <string name="grade">坡度</string>
+    <string name="terrain">地势</string>
+    <string name="plot_type">田块类型</string>
+    <string name="barrier">障碍物</string>
+    <string name="work_area_photo">作业现场图片</string>
+    <string name="note">备注</string>
+    <string name="name_hint">请输入姓名</string>
+    <string name="phone_hint">请输入电话</string>
+    <string name="crop_area_hint">请输入亩数</string>
+    <string name="note_hint">请填写备注（最多200字）</string>
+    <string name="photo_note">(不超过6张)</string>
+    <string name="detail_address">详细地址</string>
+    <string name="deatail_address_hint">请输入详细地址</string>
+    <string name="save">保存</string>
+
+    <string name="complete_plot_data">地块数据完善</string>
+
+    <!--图片选择-->
+    <string name="dir_all_pictures">/所有图片</string>
+    <string name="complete">完成</string>
+    <string name="chose_at_most">最多选择</string>
+    <string name="sheet">张</string>
+    <string name="picture">图片</string>
+    <string name="all_picture">所有图片</string>
+    <string name="choose_address">请选择家庭住址</string>
+    <string name="choose_crop">请选择作物名称</string>
+    <string name="choose_grade">请选择坡度</string>
+    <string name="choose_terrain">请选择地势</string>
+    <string name="choose_barrier">请选择障碍物</string>
+    <string name="choose_plot_type">请选择田块类型</string>
+
+
+
+
+</resources>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    android:orientation="vertical">
+
+    <include layout="@layout/title"></include>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                style="@style/item_style"
+                android:layout_marginTop="@dimen/item_margin">
+
+                <TextView
+                    style="@style/TextMain.item_flag"
+                    android:text="@string/name" />
+
+                <EditText
+                    android:id="@+id/name"
+                    android:inputType="text"
+                    style="@style/TextSecond.item_value"
+                    android:hint="@string/name_hint"/>
+            </LinearLayout>
+
+            <include layout="@layout/horizontal_line_two"></include>
+
+            <LinearLayout style="@style/item_style">
+
+                <TextView
+                    style="@style/TextMain.item_flag"
+                    android:text="@string/phone" />
+
+                <EditText
+                    android:id="@+id/tel"
+                    android:inputType="phone"
+                    android:hint="@string/phone_hint"
+                    style="@style/TextSecond.item_value" />
+            </LinearLayout>
+
+            <include layout="@layout/horizontal_line_two"></include>
+
+            <LinearLayout style="@style/item_style">
+
+                <TextView
+                    style="@style/TextMain.item_flag"
+                    android:text="@string/address" />
+
+                <TextView
+                    android:id="@+id/address"
+                    android:hint="@string/choose_address"
+                    style="@style/TextSecond.item_value" />
+            </LinearLayout>
+
+            <include layout="@layout/horizontal_line_two"></include>
+            <LinearLayout style="@style/item_style">
+
+                <TextView
+                    style="@style/TextMain.item_flag"
+                    android:text="@string/detail_address" />
+
+                <EditText
+                    android:id="@+id/detail_address"
+                    style="@style/TextSecond.item_value"
+                    android:hint="@string/deatail_address_hint"/>
+            </LinearLayout>
+
+            <include layout="@layout/horizontal_line"></include>
+
+            <LinearLayout
+                style="@style/item_style"
+                android:layout_marginTop="@dimen/item_margin">
+
+                <TextView
+                    style="@style/TextMain.item_flag"
+                    android:text="@string/crop_area" />
+
+                <EditText
+                    android:inputType="numberDecimal"
+                    android:id="@+id/crop_area"
+                    style="@style/TextSecond.item_value"
+                    android:hint="@string/crop_area_hint"/>
+            </LinearLayout>
+
+            <include layout="@layout/horizontal_line_two"></include>
+
+            <LinearLayout style="@style/item_style">
+
+                <TextView
+                    style="@style/TextMain.item_flag"
+                    android:text="@string/crop_name" />
+
+                <TextView
+                    android:id="@+id/crop_name"
+                    android:hint="@string/choose_crop"
+                    style="@style/TextSecond.item_value" />
+            </LinearLayout>
+
+            <include layout="@layout/horizontal_line_two"></include>
+
+            <LinearLayout style="@style/item_style">
+
+                <TextView
+                    style="@style/TextMain.item_flag"
+                    android:text="@string/grade" />
+
+                <TextView
+                    android:id="@+id/grade"
+                    android:hint="@string/choose_grade"
+                    style="@style/TextSecond.item_value"
+                   />
+            </LinearLayout>
+
+            <include layout="@layout/horizontal_line_two"></include>
+
+            <LinearLayout style="@style/item_style">
+
+                <TextView
+                    style="@style/TextMain.item_flag"
+                    android:text="@string/terrain" />
+
+                <TextView
+                    android:id="@+id/terrain"
+                    android:hint="@string/choose_terrain"
+                    style="@style/TextSecond.item_value" />
+            </LinearLayout>
+
+            <include layout="@layout/horizontal_line"></include>
+
+            <LinearLayout
+                style="@style/item_style"
+                android:layout_marginTop="@dimen/item_margin">
+
+                <TextView
+                    style="@style/TextMain.item_flag"
+                    android:text="@string/plot_type" />
+
+                <TextView
+                    android:id="@+id/plot_type"
+                    android:hint="@string/choose_plot_type"
+                    style="@style/TextSecond.item_value" />
+            </LinearLayout>
+
+            <include layout="@layout/horizontal_line_two"></include>
+
+            <LinearLayout style="@style/item_style">
+
+                <TextView
+                    style="@style/TextMain.item_flag"
+                    android:text="@string/barrier" />
+
+                <TextView
+                    android:id="@+id/barrier"
+                    android:hint="@string/choose_barrier"
+                    style="@style/TextSecond.item_value" />
+            </LinearLayout>
+
+            <include layout="@layout/horizontal_line"></include>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/item_margin"
+                android:background="@color/item_bg"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/work_area_photo"
+                    style="@style/TextMain"
+                    android:layout_marginTop="@dimen/dimen_36_dip"
+                    android:layout_marginLeft="@dimen/item_margin"
+                    android:text="@string/work_area_photo" />
+
+                <farmkeeperfly.com.tiankuai.MyGridView
+                    android:id="@+id/gridview"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/item_margin"
+                    android:layout_marginRight="@dimen/item_margin"
+                    android:layout_marginTop="@dimen/dimen_26_dip"
+                    android:horizontalSpacing="@dimen/dimen_10_dip"
+                    android:listSelector="@color/item_bg"
+                    android:numColumns="3"
+                    android:scrollbars="none"
+                    android:verticalSpacing="@dimen/dimen_20_dip"></farmkeeperfly.com.tiankuai.MyGridView>
+
+            </LinearLayout>
+
+            <include layout="@layout/horizontal_line_two" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:minHeight="@dimen/dimen_200_dip"
+
+                android:orientation="vertical"
+           >
+
+                <TextView
+                    style="@style/TextMain"
+                    android:layout_marginTop="@dimen/dimen_36_dip"
+                    android:layout_marginLeft="@dimen/item_margin"
+                    android:text="@string/note" />
+
+                <EditText
+                    android:layout_marginTop="@dimen/dimen_26_dip"
+                    android:id="@+id/note"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/roundrect"
+                    android:layout_marginLeft="@dimen/item_margin"
+                    android:layout_marginRight="@dimen/item_margin"
+                    android:gravity="top|left"
+                    android:textColorHint="@color/divider"
+                    android:inputType="textMultiLine"
+                    android:maxLength="100"
+                    android:layout_marginBottom="@dimen/dimen_26_dip"
+                    android:minLines="3"
+                    android:paddingLeft="@dimen/dimen_5_dip"
+                    android:scrollHorizontally="false"
+                    android:hint="@string/note_hint"
+                    android:singleLine="false"/>
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

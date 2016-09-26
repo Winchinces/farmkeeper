@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    android:orientation="vertical">
+
+    <include layout="@layout/title"></include>
+
+    <include
+        layout="@layout/horizontal_line"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1_dip"
+        android:layout_marginTop="@dimen/item_margin"></include>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_178_dip"
+        android:background="@color/item_bg">
+
+        <ImageView
+            android:id="@+id/my_headphoto"
+            android:layout_width="@dimen/dimen_142_dip"
+            android:layout_height="@dimen/dimen_142_dip"
+            android:layout_marginBottom="@dimen/dimen_18_dip"
+            android:layout_marginLeft="@dimen/item_margin"
+            android:layout_marginRight="@dimen/dimen_33_dip"
+            android:layout_marginTop="@dimen/dimen_18_dip"
+            android:src="@drawable/touxiang" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/my_headphoto"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/my_name"
+                style="@style/TextMain"
+                android:layout_marginBottom="@dimen/dimen_10_dip"
+                android:text="@string/app_name" />
+
+            <TextView
+                android:id="@+id/my_companyInfo"
+                style="@style/TextSecond"
+                android:layout_below="@id/my_name"
+                android:text="@string/app_name" />
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+    <include layout="@layout/horizontal_line"></include>
+
+    <include
+        layout="@layout/horizontal_line"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1_dip"
+        android:layout_marginTop="@dimen/item_margin"></include>
+
+    <TextView
+        android:id="@+id/my_exit"
+        style="@style/TextMain"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_107_dip"
+        android:background="@color/item_bg"
+        android:gravity="center"
+        android:text="@string/exit" />
+
+    <include layout="@layout/horizontal_line"></include>
+</LinearLayout>

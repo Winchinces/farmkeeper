@@ -1,0 +1,3610 @@
+<root>
+<!--<province name="北京市">-->
+    <!--<city name="市辖区">-->
+        <!--<district name="东城区" countyId="1" />-->
+        <!--<district name="西城区" countyId="2" />-->
+        <!--<district name="朝阳区" countyId="3" />-->
+        <!--<district name="丰台区" countyId="4" />-->
+        <!--<district name="石景山区" countyId="5" />-->
+        <!--<district name="海淀区" countyId="6" />-->
+        <!--<district name="门头沟区" countyId="7" />-->
+        <!--<district name="房山区" countyId="8" />-->
+        <!--<district name="通州区" countyId="9" />-->
+        <!--<district name="顺义区" countyId="10" />-->
+        <!--<district name="昌平区" countyId="11" />-->
+        <!--<district name="大兴区" countyId="12" />-->
+        <!--<district name="怀柔区" countyId="13" />-->
+        <!--<district name="平谷区" countyId="14" />-->
+    <!--</city>-->
+    <!--<city name="市辖县">-->
+        <!--<district name="密云县" countyId="15" />-->
+        <!--<district name="延庆县" countyId="16" />-->
+    <!--</city>-->
+<!--</province>-->
+<!--<province name="天津市">-->
+    <!--<city name="市辖区">-->
+        <!--<district name="和平区" countyId="17" />-->
+        <!--<district name="河东区" countyId="18" />-->
+        <!--<district name="河西区" countyId="19" />-->
+        <!--<district name="南开区" countyId="20" />-->
+        <!--<district name="河北区" countyId="21" />-->
+        <!--<district name="红桥区" countyId="22" />-->
+        <!--<district name="东丽区" countyId="23" />-->
+        <!--<district name="西青区" countyId="24" />-->
+        <!--<district name="津南区" countyId="25" />-->
+        <!--<district name="北辰区" countyId="26" />-->
+        <!--<district name="武清区" countyId="27" />-->
+        <!--<district name="宝坻区" countyId="28" />-->
+        <!--<district name="滨海新区" countyId="29" />-->
+    <!--</city>-->
+    <!--<city name="市辖县">-->
+        <!--<district name="宁河县" countyId="30" />-->
+        <!--<district name="静海县" countyId="31" />-->
+        <!--<district name="蓟县" countyId="32" />-->
+    <!--</city>-->
+<!--</province>-->
+<province name="河北省">
+    <city name="石家庄市">
+        <district name="长安区" countyId="33" />
+        <district name="桥东区" countyId="34" />
+        <district name="桥西区" countyId="35" />
+        <district name="新华区" countyId="36" />
+        <district name="井陉矿区" countyId="37" />
+        <district name="裕华区" countyId="38" />
+        <district name="井陉县" countyId="39" />
+        <district name="正定县" countyId="40" />
+        <district name="栾城县" countyId="41" />
+        <district name="行唐县" countyId="42" />
+        <district name="灵寿县" countyId="43" />
+        <district name="高邑县" countyId="44" />
+        <district name="深泽县" countyId="45" />
+        <district name="赞皇县" countyId="46" />
+        <district name="无极县" countyId="47" />
+        <district name="平山县" countyId="48" />
+        <district name="元氏县" countyId="49" />
+        <district name="赵县" countyId="50" />
+        <district name="辛集市" countyId="51" />
+        <district name="藁城市" countyId="52" />
+        <district name="晋州市" countyId="53" />
+        <district name="新乐市" countyId="54" />
+        <district name="鹿泉市" countyId="55" />
+    </city>
+    <city name="唐山市">
+        <district name="路南区" countyId="56" />
+        <district name="路北区" countyId="57" />
+        <district name="古冶区" countyId="58" />
+        <district name="开平区" countyId="59" />
+        <district name="丰南区" countyId="60" />
+        <district name="丰润区" countyId="61" />
+        <district name="曹妃甸区" countyId="62" />
+        <district name="滦县" countyId="63" />
+        <district name="滦南县" countyId="64" />
+        <district name="乐亭县" countyId="65" />
+        <district name="迁西县" countyId="66" />
+        <district name="玉田县" countyId="67" />
+        <district name="遵化市" countyId="68" />
+        <district name="迁安市" countyId="69" />
+    </city>
+    <city name="秦皇岛市">
+        <district name="海港区" countyId="70" />
+        <district name="山海关区" countyId="71" />
+        <district name="北戴河区" countyId="72" />
+        <district name="青龙满族自治县" countyId="73" />
+        <district name="昌黎县" countyId="74" />
+        <district name="抚宁县" countyId="75" />
+        <district name="卢龙县" countyId="76" />
+    </city>
+    <city name="邯郸市">
+        <district name="邯山区" countyId="77" />
+        <district name="丛台区" countyId="78" />
+        <district name="复兴区" countyId="79" />
+        <district name="峰峰矿区" countyId="80" />
+        <district name="邯郸县" countyId="81" />
+        <district name="临漳县" countyId="82" />
+        <district name="成安县" countyId="83" />
+        <district name="大名县" countyId="84" />
+        <district name="涉县" countyId="85" />
+        <district name="磁县" countyId="86" />
+        <district name="肥乡县" countyId="87" />
+        <district name="永年县" countyId="88" />
+        <district name="邱县" countyId="89" />
+        <district name="鸡泽县" countyId="90" />
+        <district name="广平县" countyId="91" />
+        <district name="馆陶县" countyId="92" />
+        <district name="魏县" countyId="93" />
+        <district name="曲周县" countyId="94" />
+        <district name="武安市" countyId="95" />
+    </city>
+    <city name="邢台市">
+        <district name="桥东区" countyId="96" />
+        <district name="桥西区" countyId="97" />
+        <district name="邢台县" countyId="98" />
+        <district name="临城县" countyId="99" />
+        <district name="内丘县" countyId="100" />
+        <district name="柏乡县" countyId="101" />
+        <district name="隆尧县" countyId="102" />
+        <district name="任县" countyId="103" />
+        <district name="南和县" countyId="104" />
+        <district name="宁晋县" countyId="105" />
+        <district name="巨鹿县" countyId="106" />
+        <district name="新河县" countyId="107" />
+        <district name="广宗县" countyId="108" />
+        <district name="平乡县" countyId="109" />
+        <district name="威县" countyId="110" />
+        <district name="清河县" countyId="111" />
+        <district name="临西县" countyId="112" />
+        <district name="南宫市" countyId="113" />
+        <district name="沙河市" countyId="114" />
+    </city>
+    <city name="保定市">
+        <district name="新市区" countyId="115" />
+        <district name="北市区" countyId="116" />
+        <district name="南市区" countyId="117" />
+        <district name="满城县" countyId="118" />
+        <district name="清苑县" countyId="119" />
+        <district name="涞水县" countyId="120" />
+        <district name="阜平县" countyId="121" />
+        <district name="徐水县" countyId="122" />
+        <district name="定兴县" countyId="123" />
+        <district name="唐县" countyId="124" />
+        <district name="高阳县" countyId="125" />
+        <district name="容城县" countyId="126" />
+        <district name="涞源县" countyId="127" />
+        <district name="望都县" countyId="128" />
+        <district name="安新县" countyId="129" />
+        <district name="易县" countyId="130" />
+        <district name="曲阳县" countyId="131" />
+        <district name="蠡县" countyId="132" />
+        <district name="顺平县" countyId="133" />
+        <district name="博野县" countyId="134" />
+        <district name="雄县" countyId="135" />
+        <district name="涿州市" countyId="136" />
+        <district name="定州市" countyId="137" />
+        <district name="安国市" countyId="138" />
+        <district name="高碑店市" countyId="139" />
+    </city>
+    <city name="张家口市">
+        <district name="桥东区" countyId="140" />
+        <district name="桥西区" countyId="141" />
+        <district name="宣化区" countyId="142" />
+        <district name="下花园区" countyId="143" />
+        <district name="宣化县" countyId="144" />
+        <district name="张北县" countyId="145" />
+        <district name="康保县" countyId="146" />
+        <district name="沽源县" countyId="147" />
+        <district name="尚义县" countyId="148" />
+        <district name="蔚县" countyId="149" />
+        <district name="阳原县" countyId="150" />
+        <district name="怀安县" countyId="151" />
+        <district name="万全县" countyId="152" />
+        <district name="怀来县" countyId="153" />
+        <district name="涿鹿县" countyId="154" />
+        <district name="赤城县" countyId="155" />
+        <district name="崇礼县" countyId="156" />
+    </city>
+    <city name="承德市">
+        <district name="双桥区" countyId="157" />
+        <district name="双滦区" countyId="158" />
+        <district name="鹰手营子矿区" countyId="159" />
+        <district name="承德县" countyId="160" />
+        <district name="兴隆县" countyId="161" />
+        <district name="平泉县" countyId="162" />
+        <district name="滦平县" countyId="163" />
+        <district name="隆化县" countyId="164" />
+        <district name="丰宁满族自治县" countyId="165" />
+        <district name="宽城满族自治县" countyId="166" />
+        <district name="围场满族蒙古族自治县" countyId="167" />
+    </city>
+    <city name="沧州市">
+        <district name="新华区" countyId="168" />
+        <district name="运河区" countyId="169" />
+        <district name="沧县" countyId="170" />
+        <district name="青县" countyId="171" />
+        <district name="东光县" countyId="172" />
+        <district name="海兴县" countyId="173" />
+        <district name="盐山县" countyId="174" />
+        <district name="肃宁县" countyId="175" />
+        <district name="南皮县" countyId="176" />
+        <district name="吴桥县" countyId="177" />
+        <district name="献县" countyId="178" />
+        <district name="孟村回族自治县" countyId="179" />
+        <district name="泊头市" countyId="180" />
+        <district name="任丘市" countyId="181" />
+        <district name="黄骅市" countyId="182" />
+        <district name="河间市" countyId="183" />
+    </city>
+    <city name="廊坊市">
+        <district name="安次区" countyId="184" />
+        <district name="广阳区" countyId="185" />
+        <district name="固安县" countyId="186" />
+        <district name="永清县" countyId="187" />
+        <district name="香河县" countyId="188" />
+        <district name="大城县" countyId="189" />
+        <district name="文安县" countyId="190" />
+        <district name="大厂回族自治县" countyId="191" />
+        <district name="霸州市" countyId="192" />
+        <district name="三河市" countyId="193" />
+    </city>
+    <city name="衡水市">
+        <district name="桃城区" countyId="194" />
+        <district name="枣强县" countyId="195" />
+        <district name="武邑县" countyId="196" />
+        <district name="武强县" countyId="197" />
+        <district name="饶阳县" countyId="198" />
+        <district name="安平县" countyId="199" />
+        <district name="故城县" countyId="200" />
+        <district name="景县" countyId="201" />
+        <district name="阜城县" countyId="202" />
+        <district name="冀州市" countyId="203" />
+        <district name="深州市" countyId="204" />
+    </city>
+</province>
+<province name="山西省">
+    <city name="太原市">
+        <district name="小店区" countyId="205" />
+        <district name="迎泽区" countyId="206" />
+        <district name="杏花岭区" countyId="207" />
+        <district name="尖草坪区" countyId="208" />
+        <district name="万柏林区" countyId="209" />
+        <district name="晋源区" countyId="210" />
+        <district name="清徐县" countyId="211" />
+        <district name="阳曲县" countyId="212" />
+        <district name="娄烦县" countyId="213" />
+        <district name="古交市" countyId="214" />
+    </city>
+    <city name="大同市">
+        <district name="城区" countyId="215" />
+        <district name="矿区" countyId="216" />
+        <district name="南郊区" countyId="217" />
+        <district name="新荣区" countyId="218" />
+        <district name="阳高县" countyId="219" />
+        <district name="天镇县" countyId="220" />
+        <district name="广灵县" countyId="221" />
+        <district name="灵丘县" countyId="222" />
+        <district name="浑源县" countyId="223" />
+        <district name="左云县" countyId="224" />
+        <district name="大同县" countyId="225" />
+    </city>
+    <city name="阳泉市">
+        <district name="城区" countyId="226" />
+        <district name="矿区" countyId="227" />
+        <district name="郊区" countyId="228" />
+        <district name="平定县" countyId="229" />
+        <district name="盂县" countyId="230" />
+    </city>
+    <city name="长治市">
+        <district name="城区" countyId="231" />
+        <district name="郊区" countyId="232" />
+        <district name="长治县" countyId="233" />
+        <district name="襄垣县" countyId="234" />
+        <district name="屯留县" countyId="235" />
+        <district name="平顺县" countyId="236" />
+        <district name="黎城县" countyId="237" />
+        <district name="壶关县" countyId="238" />
+        <district name="长子县" countyId="239" />
+        <district name="武乡县" countyId="240" />
+        <district name="沁县" countyId="241" />
+        <district name="沁源县" countyId="242" />
+        <district name="潞城市" countyId="243" />
+    </city>
+    <city name="晋城市">
+        <district name="城区" countyId="244" />
+        <district name="沁水县" countyId="245" />
+        <district name="阳城县" countyId="246" />
+        <district name="陵川县" countyId="247" />
+        <district name="泽州县" countyId="248" />
+        <district name="高平市" countyId="249" />
+    </city>
+    <city name="朔州市">
+        <district name="朔城区" countyId="250" />
+        <district name="平鲁区" countyId="251" />
+        <district name="山阴县" countyId="252" />
+        <district name="应县" countyId="253" />
+        <district name="右玉县" countyId="254" />
+        <district name="怀仁县" countyId="255" />
+    </city>
+    <city name="晋中市">
+        <district name="榆次区" countyId="256" />
+        <district name="榆社县" countyId="257" />
+        <district name="左权县" countyId="258" />
+        <district name="和顺县" countyId="259" />
+        <district name="昔阳县" countyId="260" />
+        <district name="寿阳县" countyId="261" />
+        <district name="太谷县" countyId="262" />
+        <district name="祁县" countyId="263" />
+        <district name="平遥县" countyId="264" />
+        <district name="灵石县" countyId="265" />
+        <district name="介休市" countyId="266" />
+    </city>
+    <city name="运城市">
+        <district name="盐湖区" countyId="267" />
+        <district name="临猗县" countyId="268" />
+        <district name="万荣县" countyId="269" />
+        <district name="闻喜县" countyId="270" />
+        <district name="稷山县" countyId="271" />
+        <district name="新绛县" countyId="272" />
+        <district name="绛县" countyId="273" />
+        <district name="垣曲县" countyId="274" />
+        <district name="夏县" countyId="275" />
+        <district name="平陆县" countyId="276" />
+        <district name="芮城县" countyId="277" />
+        <district name="永济市" countyId="278" />
+        <district name="河津市" countyId="279" />
+    </city>
+    <city name="忻州市">
+        <district name="忻府区" countyId="280" />
+        <district name="定襄县" countyId="281" />
+        <district name="五台县" countyId="282" />
+        <district name="代县" countyId="283" />
+        <district name="繁峙县" countyId="284" />
+        <district name="宁武县" countyId="285" />
+        <district name="静乐县" countyId="286" />
+        <district name="神池县" countyId="287" />
+        <district name="五寨县" countyId="288" />
+        <district name="岢岚县" countyId="289" />
+        <district name="河曲县" countyId="290" />
+        <district name="保德县" countyId="291" />
+        <district name="偏关县" countyId="292" />
+        <district name="原平市" countyId="293" />
+    </city>
+    <city name="临汾市">
+        <district name="尧都区" countyId="294" />
+        <district name="曲沃县" countyId="295" />
+        <district name="翼城县" countyId="296" />
+        <district name="襄汾县" countyId="297" />
+        <district name="洪洞县" countyId="298" />
+        <district name="古县" countyId="299" />
+        <district name="安泽县" countyId="300" />
+        <district name="浮山县" countyId="301" />
+        <district name="吉县" countyId="302" />
+        <district name="乡宁县" countyId="303" />
+        <district name="大宁县" countyId="304" />
+        <district name="隰县" countyId="305" />
+        <district name="永和县" countyId="306" />
+        <district name="蒲县" countyId="307" />
+        <district name="汾西县" countyId="308" />
+        <district name="侯马市" countyId="309" />
+        <district name="霍州市" countyId="310" />
+    </city>
+    <city name="吕梁市">
+        <district name="离石区" countyId="311" />
+        <district name="文水县" countyId="312" />
+        <district name="交城县" countyId="313" />
+        <district name="兴县" countyId="314" />
+        <district name="临县" countyId="315" />
+        <district name="柳林县" countyId="316" />
+        <district name="石楼县" countyId="317" />
+        <district name="岚县" countyId="318" />
+        <district name="方山县" countyId="319" />
+        <district name="中阳县" countyId="320" />
+        <district name="交口县" countyId="321" />
+        <district name="孝义市" countyId="322" />
+        <district name="汾阳市" countyId="323" />
+    </city>
+</province>
+<province name="内蒙古">
+    <city name="呼和浩特市">
+        <district name="新城区" countyId="324" />
+        <district name="回民区" countyId="325" />
+        <district name="玉泉区" countyId="326" />
+        <district name="赛罕区" countyId="327" />
+        <district name="土默特左旗" countyId="328" />
+        <district name="托克托县" countyId="329" />
+        <district name="和林格尔县" countyId="330" />
+        <district name="清水河县" countyId="331" />
+        <district name="武川县" countyId="332" />
+    </city>
+    <city name="包头市">
+        <district name="东河区" countyId="333" />
+        <district name="昆都仑区" countyId="334" />
+        <district name="青山区" countyId="335" />
+        <district name="石拐区" countyId="336" />
+        <district name="白云鄂博矿区" countyId="337" />
+        <district name="九原区" countyId="338" />
+        <district name="土默特右旗" countyId="339" />
+        <district name="固阳县" countyId="340" />
+        <district name="达尔罕茂明安联合旗" countyId="341" />
+    </city>
+    <city name="乌海市">
+        <district name="海勃湾区" countyId="342" />
+        <district name="海南区" countyId="343" />
+        <district name="乌达区" countyId="344" />
+    </city>
+    <city name="赤峰市">
+        <district name="红山区" countyId="345" />
+        <district name="元宝山区" countyId="346" />
+        <district name="松山区" countyId="347" />
+        <district name="阿鲁科尔沁旗" countyId="348" />
+        <district name="巴林左旗" countyId="349" />
+        <district name="巴林右旗" countyId="350" />
+        <district name="林西县" countyId="351" />
+        <district name="克什克腾旗" countyId="352" />
+        <district name="翁牛特旗" countyId="353" />
+        <district name="喀喇沁旗" countyId="354" />
+        <district name="宁城县" countyId="355" />
+        <district name="敖汉旗" countyId="356" />
+    </city>
+    <city name="通辽市">
+        <district name="科尔沁区" countyId="357" />
+        <district name="科尔沁左翼中旗" countyId="358" />
+        <district name="科尔沁左翼后旗" countyId="359" />
+        <district name="开鲁县" countyId="360" />
+        <district name="库伦旗" countyId="361" />
+        <district name="奈曼旗" countyId="362" />
+        <district name="扎鲁特旗" countyId="363" />
+        <district name="霍林郭勒市" countyId="364" />
+    </city>
+    <city name="鄂尔多斯市">
+        <district name="东胜区" countyId="365" />
+        <district name="达拉特旗" countyId="366" />
+        <district name="准格尔旗" countyId="367" />
+        <district name="鄂托克前旗" countyId="368" />
+        <district name="鄂托克旗" countyId="369" />
+        <district name="杭锦旗" countyId="370" />
+        <district name="乌审旗" countyId="371" />
+        <district name="伊金霍洛旗" countyId="372" />
+    </city>
+    <city name="呼伦贝尔市">
+        <district name="海拉尔区" countyId="373" />
+        <district name="扎赉诺尔区" countyId="374" />
+        <district name="阿荣旗" countyId="375" />
+        <district name="莫力达瓦达斡尔族自治旗" countyId="376" />
+        <district name="鄂伦春自治旗" countyId="377" />
+        <district name="鄂温克族自治旗" countyId="378" />
+        <district name="陈巴尔虎旗" countyId="379" />
+        <district name="新巴尔虎左旗" countyId="380" />
+        <district name="新巴尔虎右旗" countyId="381" />
+        <district name="满洲里市" countyId="382" />
+        <district name="牙克石市" countyId="383" />
+        <district name="扎兰屯市" countyId="384" />
+        <district name="额尔古纳市" countyId="385" />
+        <district name="根河市" countyId="386" />
+    </city>
+    <city name="巴彦淖尔市">
+        <district name="临河区" countyId="387" />
+        <district name="五原县" countyId="388" />
+        <district name="磴口县" countyId="389" />
+        <district name="乌拉特前旗" countyId="390" />
+        <district name="乌拉特中旗" countyId="391" />
+        <district name="乌拉特后旗" countyId="392" />
+        <district name="杭锦后旗" countyId="393" />
+    </city>
+    <city name="乌兰察布市">
+        <district name="集宁区" countyId="394" />
+        <district name="卓资县" countyId="395" />
+        <district name="化德县" countyId="396" />
+        <district name="商都县" countyId="397" />
+        <district name="兴和县" countyId="398" />
+        <district name="凉城县" countyId="399" />
+        <district name="察哈尔右翼前旗" countyId="400" />
+        <district name="察哈尔右翼中旗" countyId="401" />
+        <district name="察哈尔右翼后旗" countyId="402" />
+        <district name="四子王旗" countyId="403" />
+        <district name="丰镇市" countyId="404" />
+    </city>
+    <city name="兴安盟">
+        <district name="乌兰浩特市" countyId="405" />
+        <district name="阿尔山市" countyId="406" />
+        <district name="科尔沁右翼前旗" countyId="407" />
+        <district name="科尔沁右翼中旗" countyId="408" />
+        <district name="扎赉特旗" countyId="409" />
+        <district name="突泉县" countyId="410" />
+    </city>
+    <city name="锡林郭勒盟">
+        <district name="二连浩特市" countyId="411" />
+        <district name="锡林浩特市" countyId="412" />
+        <district name="阿巴嘎旗" countyId="413" />
+        <district name="苏尼特左旗" countyId="414" />
+        <district name="苏尼特右旗" countyId="415" />
+        <district name="东乌珠穆沁旗" countyId="416" />
+        <district name="西乌珠穆沁旗" countyId="417" />
+        <district name="太仆寺旗" countyId="418" />
+        <district name="镶黄旗" countyId="419" />
+        <district name="正镶白旗" countyId="420" />
+        <district name="正蓝旗" countyId="421" />
+        <district name="多伦县" countyId="422" />
+    </city>
+    <city name="阿拉善盟">
+        <district name="阿拉善左旗" countyId="423" />
+        <district name="阿拉善右旗" countyId="424" />
+        <district name="额济纳旗" countyId="425" />
+    </city>
+</province>
+<province name="辽宁省">
+    <city name="沈阳市">
+        <district name="和平区" countyId="426" />
+        <district name="沈河区" countyId="427" />
+        <district name="大东区" countyId="428" />
+        <district name="皇姑区" countyId="429" />
+        <district name="铁西区" countyId="430" />
+        <district name="苏家屯区" countyId="431" />
+        <district name="东陵区" countyId="432" />
+        <district name="沈北新区" countyId="433" />
+        <district name="于洪区" countyId="434" />
+        <district name="辽中县" countyId="435" />
+        <district name="康平县" countyId="436" />
+        <district name="法库县" countyId="437" />
+        <district name="新民市" countyId="438" />
+    </city>
+    <city name="大连市">
+        <district name="中山区" countyId="439" />
+        <district name="西岗区" countyId="440" />
+        <district name="沙河口区" countyId="441" />
+        <district name="甘井子区" countyId="442" />
+        <district name="旅顺口区" countyId="443" />
+        <district name="金州区" countyId="444" />
+        <district name="长海县" countyId="445" />
+        <district name="瓦房店市" countyId="446" />
+        <district name="普兰店市" countyId="447" />
+        <district name="庄河市" countyId="448" />
+    </city>
+    <city name="鞍山市">
+        <district name="铁东区" countyId="449" />
+        <district name="铁西区" countyId="450" />
+        <district name="立山区" countyId="451" />
+        <district name="千山区" countyId="452" />
+        <district name="台安县" countyId="453" />
+        <district name="岫岩满族自治县" countyId="454" />
+        <district name="海城市" countyId="455" />
+    </city>
+    <city name="抚顺市">
+        <district name="新抚区" countyId="456" />
+        <district name="东洲区" countyId="457" />
+        <district name="望花区" countyId="458" />
+        <district name="顺城区" countyId="459" />
+        <district name="抚顺县" countyId="460" />
+        <district name="新宾满族自治县" countyId="461" />
+        <district name="清原满族自治县" countyId="462" />
+    </city>
+    <city name="本溪市">
+        <district name="平山区" countyId="463" />
+        <district name="溪湖区" countyId="464" />
+        <district name="明山区" countyId="465" />
+        <district name="南芬区" countyId="466" />
+        <district name="本溪满族自治县" countyId="467" />
+        <district name="桓仁满族自治县" countyId="468" />
+    </city>
+    <city name="丹东市">
+        <district name="元宝区" countyId="469" />
+        <district name="振兴区" countyId="470" />
+        <district name="振安区" countyId="471" />
+        <district name="宽甸满族自治县" countyId="472" />
+        <district name="东港市" countyId="473" />
+        <district name="凤城市" countyId="474" />
+    </city>
+    <city name="锦州市">
+        <district name="古塔区" countyId="475" />
+        <district name="凌河区" countyId="476" />
+        <district name="太和区" countyId="477" />
+        <district name="黑山县" countyId="478" />
+        <district name="义县" countyId="479" />
+        <district name="凌海市" countyId="480" />
+        <district name="北镇市" countyId="481" />
+    </city>
+    <city name="营口市">
+        <district name="站前区" countyId="482" />
+        <district name="西市区" countyId="483" />
+        <district name="鲅鱼圈区" countyId="484" />
+        <district name="老边区" countyId="485" />
+        <district name="盖州市" countyId="486" />
+        <district name="大石桥市" countyId="487" />
+    </city>
+    <city name="阜新市">
+        <district name="海州区" countyId="488" />
+        <district name="新邱区" countyId="489" />
+        <district name="太平区" countyId="490" />
+        <district name="清河门区" countyId="491" />
+        <district name="细河区" countyId="492" />
+        <district name="阜新蒙古族自治县" countyId="493" />
+        <district name="彰武县" countyId="494" />
+    </city>
+    <city name="辽阳市">
+        <district name="白塔区" countyId="495" />
+        <district name="文圣区" countyId="496" />
+        <district name="宏伟区" countyId="497" />
+        <district name="弓长岭区" countyId="498" />
+        <district name="太子河区" countyId="499" />
+        <district name="辽阳县" countyId="500" />
+        <district name="灯塔市" countyId="501" />
+    </city>
+    <city name="盘锦市">
+        <district name="双台子区" countyId="502" />
+        <district name="兴隆台区" countyId="503" />
+        <district name="大洼县" countyId="504" />
+        <district name="盘山县" countyId="505" />
+    </city>
+    <city name="铁岭市">
+        <district name="银州区" countyId="506" />
+        <district name="清河区" countyId="507" />
+        <district name="铁岭县" countyId="508" />
+        <district name="西丰县" countyId="509" />
+        <district name="昌图县" countyId="510" />
+        <district name="调兵山市" countyId="511" />
+        <district name="开原市" countyId="512" />
+    </city>
+    <city name="朝阳市">
+        <district name="双塔区" countyId="513" />
+        <district name="龙城区" countyId="514" />
+        <district name="朝阳县" countyId="515" />
+        <district name="建平县" countyId="516" />
+        <district name="喀喇沁左翼蒙古族自治县" countyId="517" />
+        <district name="北票市" countyId="518" />
+        <district name="凌源市" countyId="519" />
+    </city>
+    <city name="葫芦岛市">
+        <district name="连山区" countyId="520" />
+        <district name="龙港区" countyId="521" />
+        <district name="南票区" countyId="522" />
+        <district name="绥中县" countyId="523" />
+        <district name="建昌县" countyId="524" />
+        <district name="兴城市" countyId="525" />
+    </city>
+</province>
+<province name="吉林省">
+    <city name="长春市">
+        <district name="南关区" countyId="526" />
+        <district name="宽城区" countyId="527" />
+        <district name="朝阳区" countyId="528" />
+        <district name="二道区" countyId="529" />
+        <district name="绿园区" countyId="530" />
+        <district name="双阳区" countyId="531" />
+        <district name="农安县" countyId="532" />
+        <district name="九台市" countyId="533" />
+        <district name="榆树市" countyId="534" />
+        <district name="德惠市" countyId="535" />
+    </city>
+    <city name="吉林市">
+        <district name="昌邑区" countyId="536" />
+        <district name="龙潭区" countyId="537" />
+        <district name="船营区" countyId="538" />
+        <district name="丰满区" countyId="539" />
+        <district name="永吉县" countyId="540" />
+        <district name="蛟河市" countyId="541" />
+        <district name="桦甸市" countyId="542" />
+        <district name="舒兰市" countyId="543" />
+        <district name="磐石市" countyId="544" />
+    </city>
+    <city name="四平市">
+        <district name="铁西区" countyId="545" />
+        <district name="铁东区" countyId="546" />
+        <district name="梨树县" countyId="547" />
+        <district name="伊通满族自治县" countyId="548" />
+        <district name="公主岭市" countyId="549" />
+        <district name="双辽市" countyId="550" />
+    </city>
+    <city name="辽源市">
+        <district name="龙山区" countyId="551" />
+        <district name="西安区" countyId="552" />
+        <district name="东丰县" countyId="553" />
+        <district name="东辽县" countyId="554" />
+    </city>
+    <city name="通化市">
+        <district name="东昌区" countyId="555" />
+        <district name="二道江区" countyId="556" />
+        <district name="通化县" countyId="557" />
+        <district name="辉南县" countyId="558" />
+        <district name="柳河县" countyId="559" />
+        <district name="梅河口市" countyId="560" />
+        <district name="集安市" countyId="561" />
+    </city>
+    <city name="白山市">
+        <district name="浑江区" countyId="562" />
+        <district name="江源区" countyId="563" />
+        <district name="抚松县" countyId="564" />
+        <district name="靖宇县" countyId="565" />
+        <district name="长白朝鲜族自治县" countyId="566" />
+        <district name="临江市" countyId="567" />
+    </city>
+    <city name="松原市">
+        <district name="宁江区" countyId="568" />
+        <district name="前郭尔罗斯蒙古族自治县" countyId="569" />
+        <district name="长岭县" countyId="570" />
+        <district name="乾安县" countyId="571" />
+        <district name="扶余市" countyId="572" />
+    </city>
+    <city name="白城市">
+        <district name="洮北区" countyId="573" />
+        <district name="镇赉县" countyId="574" />
+        <district name="通榆县" countyId="575" />
+        <district name="洮南市" countyId="576" />
+        <district name="大安市" countyId="577" />
+    </city>
+    <city name="延边朝鲜族自治州">
+        <district name="延吉市" countyId="578" />
+        <district name="图们市" countyId="579" />
+        <district name="敦化市" countyId="580" />
+        <district name="珲春市" countyId="581" />
+        <district name="龙井市" countyId="582" />
+        <district name="和龙市" countyId="583" />
+        <district name="汪清县" countyId="584" />
+        <district name="安图县" countyId="585" />
+    </city>
+</province>
+<province name="黑龙江省">
+    <city name="哈尔滨市">
+        <district name="道里区" countyId="586" />
+        <district name="南岗区" countyId="587" />
+        <district name="道外区" countyId="588" />
+        <district name="平房区" countyId="589" />
+        <district name="松北区" countyId="590" />
+        <district name="香坊区" countyId="591" />
+        <district name="呼兰区" countyId="592" />
+        <district name="阿城区" countyId="593" />
+        <district name="依兰县" countyId="594" />
+        <district name="方正县" countyId="595" />
+        <district name="宾县" countyId="596" />
+        <district name="巴彦县" countyId="597" />
+        <district name="木兰县" countyId="598" />
+        <district name="通河县" countyId="599" />
+        <district name="延寿县" countyId="600" />
+        <district name="双城市" countyId="601" />
+        <district name="尚志市" countyId="602" />
+        <district name="五常市" countyId="603" />
+    </city>
+    <city name="齐齐哈尔市">
+        <district name="龙沙区" countyId="604" />
+        <district name="建华区" countyId="605" />
+        <district name="铁锋区" countyId="606" />
+        <district name="昂昂溪区" countyId="607" />
+        <district name="富拉尔基区" countyId="608" />
+        <district name="碾子山区" countyId="609" />
+        <district name="梅里斯达斡尔族区" countyId="610" />
+        <district name="龙江县" countyId="611" />
+        <district name="依安县" countyId="612" />
+        <district name="泰来县" countyId="613" />
+        <district name="甘南县" countyId="614" />
+        <district name="富裕县" countyId="615" />
+        <district name="克山县" countyId="616" />
+        <district name="克东县" countyId="617" />
+        <district name="拜泉县" countyId="618" />
+        <district name="讷河市" countyId="619" />
+    </city>
+    <city name="鸡西市">
+        <district name="鸡冠区" countyId="620" />
+        <district name="恒山区" countyId="621" />
+        <district name="滴道区" countyId="622" />
+        <district name="梨树区" countyId="623" />
+        <district name="城子河区" countyId="624" />
+        <district name="麻山区" countyId="625" />
+        <district name="鸡东县" countyId="626" />
+        <district name="虎林市" countyId="627" />
+        <district name="密山市" countyId="628" />
+    </city>
+    <city name="鹤岗市">
+        <district name="向阳区" countyId="629" />
+        <district name="工农区" countyId="630" />
+        <district name="南山区" countyId="631" />
+        <district name="兴安区" countyId="632" />
+        <district name="东山区" countyId="633" />
+        <district name="兴山区" countyId="634" />
+        <district name="萝北县" countyId="635" />
+        <district name="绥滨县" countyId="636" />
+    </city>
+    <city name="双鸭山市">
+        <district name="尖山区" countyId="637" />
+        <district name="岭东区" countyId="638" />
+        <district name="四方台区" countyId="639" />
+        <district name="宝山区" countyId="640" />
+        <district name="集贤县" countyId="641" />
+        <district name="友谊县" countyId="642" />
+        <district name="宝清县" countyId="643" />
+        <district name="饶河县" countyId="644" />
+    </city>
+    <city name="大庆市">
+        <district name="萨尔图区" countyId="645" />
+        <district name="龙凤区" countyId="646" />
+        <district name="让胡路区" countyId="647" />
+        <district name="红岗区" countyId="648" />
+        <district name="大同区" countyId="649" />
+        <district name="肇州县" countyId="650" />
+        <district name="肇源县" countyId="651" />
+        <district name="林甸县" countyId="652" />
+        <district name="杜尔伯特蒙古族自治县" countyId="653" />
+    </city>
+    <city name="伊春市">
+        <district name="伊春区" countyId="654" />
+        <district name="南岔区" countyId="655" />
+        <district name="友好区" countyId="656" />
+        <district name="西林区" countyId="657" />
+        <district name="翠峦区" countyId="658" />
+        <district name="新青区" countyId="659" />
+        <district name="美溪区" countyId="660" />
+        <district name="金山屯区" countyId="661" />
+        <district name="五营区" countyId="662" />
+        <district name="乌马河区" countyId="663" />
+        <district name="汤旺河区" countyId="664" />
+        <district name="带岭区" countyId="665" />
+        <district name="乌伊岭区" countyId="666" />
+        <district name="红星区" countyId="667" />
+        <district name="上甘岭区" countyId="668" />
+        <district name="嘉荫县" countyId="669" />
+        <district name="铁力市" countyId="670" />
+    </city>
+    <city name="佳木斯市">
+        <district name="向阳区" countyId="671" />
+        <district name="前进区" countyId="672" />
+        <district name="东风区" countyId="673" />
+        <district name="郊区" countyId="674" />
+        <district name="桦南县" countyId="675" />
+        <district name="桦川县" countyId="676" />
+        <district name="汤原县" countyId="677" />
+        <district name="抚远县" countyId="678" />
+        <district name="同江市" countyId="679" />
+        <district name="富锦市" countyId="680" />
+    </city>
+    <city name="七台河市">
+        <district name="新兴区" countyId="681" />
+        <district name="桃山区" countyId="682" />
+        <district name="茄子河区" countyId="683" />
+        <district name="勃利县" countyId="684" />
+    </city>
+    <city name="牡丹江市">
+        <district name="东安区" countyId="685" />
+        <district name="阳明区" countyId="686" />
+        <district name="爱民区" countyId="687" />
+        <district name="西安区" countyId="688" />
+        <district name="东宁县" countyId="689" />
+        <district name="林口县" countyId="690" />
+        <district name="绥芬河市" countyId="691" />
+        <district name="海林市" countyId="692" />
+        <district name="宁安市" countyId="693" />
+        <district name="穆棱市" countyId="694" />
+    </city>
+    <city name="黑河市">
+        <district name="爱辉区" countyId="695" />
+        <district name="嫩江县" countyId="696" />
+        <district name="逊克县" countyId="697" />
+        <district name="孙吴县" countyId="698" />
+        <district name="北安市" countyId="699" />
+        <district name="五大连池市" countyId="700" />
+    </city>
+    <city name="绥化市">
+        <district name="北林区" countyId="701" />
+        <district name="望奎县" countyId="702" />
+        <district name="兰西县" countyId="703" />
+        <district name="青冈县" countyId="704" />
+        <district name="庆安县" countyId="705" />
+        <district name="明水县" countyId="706" />
+        <district name="绥棱县" countyId="707" />
+        <district name="安达市" countyId="708" />
+        <district name="肇东市" countyId="709" />
+        <district name="海伦市" countyId="710" />
+    </city>
+    <city name="大兴安岭地区">
+        <district name="呼玛县" countyId="711" />
+        <district name="塔河县" countyId="712" />
+        <district name="漠河县" countyId="713" />
+    </city>
+</province>
+<province name="上海市">
+    <city name="市辖区">
+        <district name="黄浦区" countyId="714" />
+        <district name="徐汇区" countyId="715" />
+        <district name="长宁区" countyId="716" />
+        <district name="静安区" countyId="717" />
+        <district name="普陀区" countyId="718" />
+        <district name="闸北区" countyId="719" />
+        <district name="虹口区" countyId="720" />
+        <district name="杨浦区" countyId="721" />
+        <district name="闵行区" countyId="722" />
+        <district name="宝山区" countyId="723" />
+        <district name="嘉定区" countyId="724" />
+        <district name="浦东新区" countyId="725" />
+        <district name="金山区" countyId="726" />
+        <district name="松江区" countyId="727" />
+        <district name="青浦区" countyId="728" />
+        <district name="奉贤区" countyId="729" />
+    </city>
+    <city name="市辖县">
+        <district name="崇明县" countyId="730" />
+    </city>
+</province>
+<province name="江苏省">
+    <city name="南京市">
+        <district name="玄武区" countyId="731" />
+        <district name="秦淮区" countyId="732" />
+        <district name="建邺区" countyId="733" />
+        <district name="鼓楼区" countyId="734" />
+        <district name="浦口区" countyId="735" />
+        <district name="栖霞区" countyId="736" />
+        <district name="雨花台区" countyId="737" />
+        <district name="江宁区" countyId="738" />
+        <district name="六合区" countyId="739" />
+        <district name="溧水区" countyId="740" />
+        <district name="高淳区" countyId="741" />
+    </city>
+    <city name="无锡市">
+        <district name="崇安区" countyId="742" />
+        <district name="南长区" countyId="743" />
+        <district name="北塘区" countyId="744" />
+        <district name="锡山区" countyId="745" />
+        <district name="惠山区" countyId="746" />
+        <district name="滨湖区" countyId="747" />
+        <district name="江阴市" countyId="748" />
+        <district name="宜兴市" countyId="749" />
+    </city>
+    <city name="徐州市">
+        <district name="鼓楼区" countyId="750" />
+        <district name="云龙区" countyId="751" />
+        <district name="贾汪区" countyId="752" />
+        <district name="泉山区" countyId="753" />
+        <district name="铜山区" countyId="754" />
+        <district name="丰县" countyId="755" />
+        <district name="沛县" countyId="756" />
+        <district name="睢宁县" countyId="757" />
+        <district name="新沂市" countyId="758" />
+        <district name="邳州市" countyId="759" />
+    </city>
+    <city name="常州市">
+        <district name="天宁区" countyId="760" />
+        <district name="钟楼区" countyId="761" />
+        <district name="戚墅堰区" countyId="762" />
+        <district name="新北区" countyId="763" />
+        <district name="武进区" countyId="764" />
+        <district name="溧阳市" countyId="765" />
+        <district name="金坛市" countyId="766" />
+    </city>
+    <city name="苏州市">
+        <district name="虎丘区" countyId="767" />
+        <district name="吴中区" countyId="768" />
+        <district name="相城区" countyId="769" />
+        <district name="姑苏区" countyId="770" />
+        <district name="吴江区" countyId="771" />
+        <district name="常熟市" countyId="772" />
+        <district name="张家港市" countyId="773" />
+        <district name="昆山市" countyId="774" />
+        <district name="太仓市" countyId="775" />
+    </city>
+    <city name="南通市">
+        <district name="崇川区" countyId="776" />
+        <district name="港闸区" countyId="777" />
+        <district name="通州区" countyId="778" />
+        <district name="海安县" countyId="779" />
+        <district name="如东县" countyId="780" />
+        <district name="启东市" countyId="781" />
+        <district name="如皋市" countyId="782" />
+        <district name="海门市" countyId="783" />
+    </city>
+    <city name="连云港市">
+        <district name="连云区" countyId="784" />
+        <district name="新浦区" countyId="785" />
+        <district name="海州区" countyId="786" />
+        <district name="赣榆县" countyId="787" />
+        <district name="东海县" countyId="788" />
+        <district name="灌云县" countyId="789" />
+        <district name="灌南县" countyId="790" />
+    </city>
+    <city name="淮安市">
+        <district name="清河区" countyId="791" />
+        <district name="淮安区" countyId="792" />
+        <district name="淮阴区" countyId="793" />
+        <district name="清浦区" countyId="794" />
+        <district name="涟水县" countyId="795" />
+        <district name="洪泽县" countyId="796" />
+        <district name="盱眙县" countyId="797" />
+        <district name="金湖县" countyId="798" />
+    </city>
+    <city name="盐城市">
+        <district name="亭湖区" countyId="799" />
+        <district name="盐都区" countyId="800" />
+        <district name="响水县" countyId="801" />
+        <district name="滨海县" countyId="802" />
+        <district name="阜宁县" countyId="803" />
+        <district name="射阳县" countyId="804" />
+        <district name="建湖县" countyId="805" />
+        <district name="东台市" countyId="806" />
+        <district name="大丰市" countyId="807" />
+    </city>
+    <city name="扬州市">
+        <district name="广陵区" countyId="808" />
+        <district name="邗江区" countyId="809" />
+        <district name="江都区" countyId="810" />
+        <district name="宝应县" countyId="811" />
+        <district name="仪征市" countyId="812" />
+        <district name="高邮市" countyId="813" />
+    </city>
+    <city name="镇江市">
+        <district name="京口区" countyId="814" />
+        <district name="润州区" countyId="815" />
+        <district name="丹徒区" countyId="816" />
+        <district name="丹阳市" countyId="817" />
+        <district name="扬中市" countyId="818" />
+        <district name="句容市" countyId="819" />
+    </city>
+    <city name="泰州市">
+        <district name="海陵区" countyId="820" />
+        <district name="高港区" countyId="821" />
+        <district name="姜堰区" countyId="822" />
+        <district name="兴化市" countyId="823" />
+        <district name="靖江市" countyId="824" />
+        <district name="泰兴市" countyId="825" />
+    </city>
+    <city name="宿迁市">
+        <district name="宿城区" countyId="826" />
+        <district name="宿豫区" countyId="827" />
+        <district name="沭阳县" countyId="828" />
+        <district name="泗阳县" countyId="829" />
+        <district name="泗洪县" countyId="830" />
+    </city>
+</province>
+<province name="浙江省">
+    <city name="杭州市">
+        <district name="上城区" countyId="831" />
+        <district name="下城区" countyId="832" />
+        <district name="江干区" countyId="833" />
+        <district name="拱墅区" countyId="834" />
+        <district name="西湖区" countyId="835" />
+        <district name="滨江区" countyId="836" />
+        <district name="萧山区" countyId="837" />
+        <district name="余杭区" countyId="838" />
+        <district name="桐庐县" countyId="839" />
+        <district name="淳安县" countyId="840" />
+        <district name="建德市" countyId="841" />
+        <district name="富阳市" countyId="842" />
+        <district name="临安市" countyId="843" />
+    </city>
+    <city name="宁波市">
+        <district name="海曙区" countyId="844" />
+        <district name="江东区" countyId="845" />
+        <district name="江北区" countyId="846" />
+        <district name="北仑区" countyId="847" />
+        <district name="镇海区" countyId="848" />
+        <district name="鄞州区" countyId="849" />
+        <district name="象山县" countyId="850" />
+        <district name="宁海县" countyId="851" />
+        <district name="余姚市" countyId="852" />
+        <district name="慈溪市" countyId="853" />
+        <district name="奉化市" countyId="854" />
+    </city>
+    <city name="温州市">
+        <district name="鹿城区" countyId="855" />
+        <district name="龙湾区" countyId="856" />
+        <district name="瓯海区" countyId="857" />
+        <district name="洞头县" countyId="858" />
+        <district name="永嘉县" countyId="859" />
+        <district name="平阳县" countyId="860" />
+        <district name="苍南县" countyId="861" />
+        <district name="文成县" countyId="862" />
+        <district name="泰顺县" countyId="863" />
+        <district name="瑞安市" countyId="864" />
+        <district name="乐清市" countyId="865" />
+    </city>
+    <city name="嘉兴市">
+        <district name="南湖区" countyId="866" />
+        <district name="秀洲区" countyId="867" />
+        <district name="嘉善县" countyId="868" />
+        <district name="海盐县" countyId="869" />
+        <district name="海宁市" countyId="870" />
+        <district name="平湖市" countyId="871" />
+        <district name="桐乡市" countyId="872" />
+    </city>
+    <city name="湖州市">
+        <district name="吴兴区" countyId="873" />
+        <district name="南浔区" countyId="874" />
+        <district name="德清县" countyId="875" />
+        <district name="长兴县" countyId="876" />
+        <district name="安吉县" countyId="877" />
+    </city>
+    <city name="绍兴市">
+        <district name="越城区" countyId="878" />
+        <district name="绍兴县" countyId="879" />
+        <district name="新昌县" countyId="880" />
+        <district name="诸暨市" countyId="881" />
+        <district name="上虞市" countyId="882" />
+        <district name="嵊州市" countyId="883" />
+    </city>
+    <city name="金华市">
+        <district name="婺城区" countyId="884" />
+        <district name="金东区" countyId="885" />
+        <district name="武义县" countyId="886" />
+        <district name="浦江县" countyId="887" />
+        <district name="磐安县" countyId="888" />
+        <district name="兰溪市" countyId="889" />
+        <district name="义乌市" countyId="890" />
+        <district name="东阳市" countyId="891" />
+        <district name="永康市" countyId="892" />
+    </city>
+    <city name="衢州市">
+        <district name="柯城区" countyId="893" />
+        <district name="衢江区" countyId="894" />
+        <district name="常山县" countyId="895" />
+        <district name="开化县" countyId="896" />
+        <district name="龙游县" countyId="897" />
+        <district name="江山市" countyId="898" />
+    </city>
+    <city name="舟山市">
+        <district name="定海区" countyId="899" />
+        <district name="普陀区" countyId="900" />
+        <district name="岱山县" countyId="901" />
+        <district name="嵊泗县" countyId="902" />
+    </city>
+    <city name="台州市">
+        <district name="椒江区" countyId="903" />
+        <district name="黄岩区" countyId="904" />
+        <district name="路桥区" countyId="905" />
+        <district name="玉环县" countyId="906" />
+        <district name="三门县" countyId="907" />
+        <district name="天台县" countyId="908" />
+        <district name="仙居县" countyId="909" />
+        <district name="温岭市" countyId="910" />
+        <district name="临海市" countyId="911" />
+    </city>
+    <city name="丽水市">
+        <district name="莲都区" countyId="912" />
+        <district name="青田县" countyId="913" />
+        <district name="缙云县" countyId="914" />
+        <district name="遂昌县" countyId="915" />
+        <district name="松阳县" countyId="916" />
+        <district name="云和县" countyId="917" />
+        <district name="庆元县" countyId="918" />
+        <district name="景宁畲族自治县" countyId="919" />
+        <district name="龙泉市" countyId="920" />
+    </city>
+</province>
+<province name="安徽省">
+    <city name="合肥市">
+        <district name="瑶海区" countyId="921" />
+        <district name="庐阳区" countyId="922" />
+        <district name="蜀山区" countyId="923" />
+        <district name="包河区" countyId="924" />
+        <district name="长丰县" countyId="925" />
+        <district name="肥东县" countyId="926" />
+        <district name="肥西县" countyId="927" />
+        <district name="庐江县" countyId="928" />
+        <district name="巢湖市" countyId="929" />
+    </city>
+    <city name="芜湖市">
+        <district name="镜湖区" countyId="930" />
+        <district name="弋江区" countyId="931" />
+        <district name="鸠江区" countyId="932" />
+        <district name="三山区" countyId="933" />
+        <district name="芜湖县" countyId="934" />
+        <district name="繁昌县" countyId="935" />
+        <district name="南陵县" countyId="936" />
+        <district name="无为县" countyId="937" />
+    </city>
+    <city name="蚌埠市">
+        <district name="龙子湖区" countyId="938" />
+        <district name="蚌山区" countyId="939" />
+        <district name="禹会区" countyId="940" />
+        <district name="淮上区" countyId="941" />
+        <district name="怀远县" countyId="942" />
+        <district name="五河县" countyId="943" />
+        <district name="固镇县" countyId="944" />
+    </city>
+    <city name="淮南市">
+        <district name="大通区" countyId="945" />
+        <district name="田家庵区" countyId="946" />
+        <district name="谢家集区" countyId="947" />
+        <district name="八公山区" countyId="948" />
+        <district name="潘集区" countyId="949" />
+        <district name="凤台县" countyId="950" />
+    </city>
+    <city name="马鞍山市">
+        <district name="花山区" countyId="951" />
+        <district name="雨山区" countyId="952" />
+        <district name="博望区" countyId="953" />
+        <district name="当涂县" countyId="954" />
+        <district name="含山县" countyId="955" />
+        <district name="和县" countyId="956" />
+    </city>
+    <city name="淮北市">
+        <district name="杜集区" countyId="957" />
+        <district name="相山区" countyId="958" />
+        <district name="烈山区" countyId="959" />
+        <district name="濉溪县" countyId="960" />
+    </city>
+    <city name="铜陵市">
+        <district name="铜官山区" countyId="961" />
+        <district name="狮子山区" countyId="962" />
+        <district name="郊区" countyId="963" />
+        <district name="铜陵县" countyId="964" />
+    </city>
+    <city name="安庆市">
+        <district name="迎江区" countyId="965" />
+        <district name="大观区" countyId="966" />
+        <district name="宜秀区" countyId="967" />
+        <district name="怀宁县" countyId="968" />
+        <district name="枞阳县" countyId="969" />
+        <district name="潜山县" countyId="970" />
+        <district name="太湖县" countyId="971" />
+        <district name="宿松县" countyId="972" />
+        <district name="望江县" countyId="973" />
+        <district name="岳西县" countyId="974" />
+        <district name="桐城市" countyId="975" />
+    </city>
+    <city name="黄山市">
+        <district name="屯溪区" countyId="976" />
+        <district name="黄山区" countyId="977" />
+        <district name="徽州区" countyId="978" />
+        <district name="歙县" countyId="979" />
+        <district name="休宁县" countyId="980" />
+        <district name="黟县" countyId="981" />
+        <district name="祁门县" countyId="982" />
+    </city>
+    <city name="滁州市">
+        <district name="琅琊区" countyId="983" />
+        <district name="南谯区" countyId="984" />
+        <district name="来安县" countyId="985" />
+        <district name="全椒县" countyId="986" />
+        <district name="定远县" countyId="987" />
+        <district name="凤阳县" countyId="988" />
+        <district name="天长市" countyId="989" />
+        <district name="明光市" countyId="990" />
+    </city>
+    <city name="阜阳市">
+        <district name="颍州区" countyId="991" />
+        <district name="颍东区" countyId="992" />
+        <district name="颍泉区" countyId="993" />
+        <district name="临泉县" countyId="994" />
+        <district name="太和县" countyId="995" />
+        <district name="阜南县" countyId="996" />
+        <district name="颍上县" countyId="997" />
+        <district name="界首市" countyId="998" />
+    </city>
+    <city name="宿州市">
+        <district name="埇桥区" countyId="999" />
+        <district name="砀山县" countyId="1000" />
+        <district name="萧县" countyId="1001" />
+        <district name="灵璧县" countyId="1002" />
+        <district name="泗县" countyId="1003" />
+    </city>
+    <city name="六安市">
+        <district name="金安区" countyId="1004" />
+        <district name="裕安区" countyId="1005" />
+        <district name="寿县" countyId="1006" />
+        <district name="霍邱县" countyId="1007" />
+        <district name="舒城县" countyId="1008" />
+        <district name="金寨县" countyId="1009" />
+        <district name="霍山县" countyId="1010" />
+    </city>
+    <city name="亳州市">
+        <district name="谯城区" countyId="1011" />
+        <district name="涡阳县" countyId="1012" />
+        <district name="蒙城县" countyId="1013" />
+        <district name="利辛县" countyId="1014" />
+    </city>
+    <city name="池州市">
+        <district name="贵池区" countyId="1015" />
+        <district name="东至县" countyId="1016" />
+        <district name="石台县" countyId="1017" />
+        <district name="青阳县" countyId="1018" />
+    </city>
+    <city name="宣城市">
+        <district name="宣州区" countyId="1019" />
+        <district name="郎溪县" countyId="1020" />
+        <district name="广德县" countyId="1021" />
+        <district name="泾县" countyId="1022" />
+        <district name="绩溪县" countyId="1023" />
+        <district name="旌德县" countyId="1024" />
+        <district name="宁国市" countyId="1025" />
+    </city>
+</province>
+<province name="福建省">
+    <city name="福州市">
+        <district name="鼓楼区" countyId="1026" />
+        <district name="台江区" countyId="1027" />
+        <district name="仓山区" countyId="1028" />
+        <district name="马尾区" countyId="1029" />
+        <district name="晋安区" countyId="1030" />
+        <district name="闽侯县" countyId="1031" />
+        <district name="连江县" countyId="1032" />
+        <district name="罗源县" countyId="1033" />
+        <district name="闽清县" countyId="1034" />
+        <district name="永泰县" countyId="1035" />
+        <district name="平潭县" countyId="1036" />
+        <district name="福清市" countyId="1037" />
+        <district name="长乐市" countyId="1038" />
+    </city>
+    <city name="厦门市">
+        <district name="思明区" countyId="1039" />
+        <district name="海沧区" countyId="1040" />
+        <district name="湖里区" countyId="1041" />
+        <district name="集美区" countyId="1042" />
+        <district name="同安区" countyId="1043" />
+        <district name="翔安区" countyId="1044" />
+    </city>
+    <city name="莆田市">
+        <district name="城厢区" countyId="1045" />
+        <district name="涵江区" countyId="1046" />
+        <district name="荔城区" countyId="1047" />
+        <district name="秀屿区" countyId="1048" />
+        <district name="仙游县" countyId="1049" />
+    </city>
+    <city name="三明市">
+        <district name="梅列区" countyId="1050" />
+        <district name="三元区" countyId="1051" />
+        <district name="明溪县" countyId="1052" />
+        <district name="清流县" countyId="1053" />
+        <district name="宁化县" countyId="1054" />
+        <district name="大田县" countyId="1055" />
+        <district name="尤溪县" countyId="1056" />
+        <district name="沙县" countyId="1057" />
+        <district name="将乐县" countyId="1058" />
+        <district name="泰宁县" countyId="1059" />
+        <district name="建宁县" countyId="1060" />
+        <district name="永安市" countyId="1061" />
+    </city>
+    <city name="泉州市">
+        <district name="鲤城区" countyId="1062" />
+        <district name="丰泽区" countyId="1063" />
+        <district name="洛江区" countyId="1064" />
+        <district name="泉港区" countyId="1065" />
+        <district name="惠安县" countyId="1066" />
+        <district name="安溪县" countyId="1067" />
+        <district name="永春县" countyId="1068" />
+        <district name="德化县" countyId="1069" />
+        <district name="石狮市" countyId="1070" />
+        <district name="晋江市" countyId="1071" />
+        <district name="南安市" countyId="1072" />
+    </city>
+    <city name="漳州市">
+        <district name="芗城区" countyId="1073" />
+        <district name="龙文区" countyId="1074" />
+        <district name="云霄县" countyId="1075" />
+        <district name="漳浦县" countyId="1076" />
+        <district name="诏安县" countyId="1077" />
+        <district name="长泰县" countyId="1078" />
+        <district name="东山县" countyId="1079" />
+        <district name="南靖县" countyId="1080" />
+        <district name="平和县" countyId="1081" />
+        <district name="华安县" countyId="1082" />
+        <district name="龙海市" countyId="1083" />
+    </city>
+    <city name="南平市">
+        <district name="延平区" countyId="1084" />
+        <district name="顺昌县" countyId="1085" />
+        <district name="浦城县" countyId="1086" />
+        <district name="光泽县" countyId="1087" />
+        <district name="松溪县" countyId="1088" />
+        <district name="政和县" countyId="1089" />
+        <district name="邵武市" countyId="1090" />
+        <district name="武夷山市" countyId="1091" />
+        <district name="建瓯市" countyId="1092" />
+        <district name="建阳市" countyId="1093" />
+    </city>
+    <city name="龙岩市">
+        <district name="新罗区" countyId="1094" />
+        <district name="长汀县" countyId="1095" />
+        <district name="永定县" countyId="1096" />
+        <district name="上杭县" countyId="1097" />
+        <district name="武平县" countyId="1098" />
+        <district name="连城县" countyId="1099" />
+        <district name="漳平市" countyId="1100" />
+    </city>
+    <city name="宁德市">
+        <district name="蕉城区" countyId="1101" />
+        <district name="霞浦县" countyId="1102" />
+        <district name="古田县" countyId="1103" />
+        <district name="屏南县" countyId="1104" />
+        <district name="寿宁县" countyId="1105" />
+        <district name="周宁县" countyId="1106" />
+        <district name="柘荣县" countyId="1107" />
+        <district name="福安市" countyId="1108" />
+        <district name="福鼎市" countyId="1109" />
+    </city>
+</province>
+<province name="江西省">
+    <city name="南昌市">
+        <district name="东湖区" countyId="1110" />
+        <district name="西湖区" countyId="1111" />
+        <district name="青云谱区" countyId="1112" />
+        <district name="湾里区" countyId="1113" />
+        <district name="青山湖区" countyId="1114" />
+        <district name="南昌县" countyId="1115" />
+        <district name="新建县" countyId="1116" />
+        <district name="安义县" countyId="1117" />
+        <district name="进贤县" countyId="1118" />
+    </city>
+    <city name="景德镇市">
+        <district name="昌江区" countyId="1119" />
+        <district name="珠山区" countyId="1120" />
+        <district name="浮梁县" countyId="1121" />
+        <district name="乐平市" countyId="1122" />
+    </city>
+    <city name="萍乡市">
+        <district name="安源区" countyId="1123" />
+        <district name="湘东区" countyId="1124" />
+        <district name="莲花县" countyId="1125" />
+        <district name="上栗县" countyId="1126" />
+        <district name="芦溪县" countyId="1127" />
+    </city>
+    <city name="九江市">
+        <district name="庐山区" countyId="1128" />
+        <district name="浔阳区" countyId="1129" />
+        <district name="九江县" countyId="1130" />
+        <district name="武宁县" countyId="1131" />
+        <district name="修水县" countyId="1132" />
+        <district name="永修县" countyId="1133" />
+        <district name="德安县" countyId="1134" />
+        <district name="星子县" countyId="1135" />
+        <district name="都昌县" countyId="1136" />
+        <district name="湖口县" countyId="1137" />
+        <district name="彭泽县" countyId="1138" />
+        <district name="瑞昌市" countyId="1139" />
+        <district name="共青城市" countyId="1140" />
+    </city>
+    <city name="新余市">
+        <district name="渝水区" countyId="1141" />
+        <district name="分宜县" countyId="1142" />
+    </city>
+    <city name="鹰潭市">
+        <district name="月湖区" countyId="1143" />
+        <district name="余江县" countyId="1144" />
+        <district name="贵溪市" countyId="1145" />
+    </city>
+    <city name="赣州市">
+        <district name="章贡区" countyId="1146" />
+        <district name="赣县" countyId="1147" />
+        <district name="信丰县" countyId="1148" />
+        <district name="大余县" countyId="1149" />
+        <district name="上犹县" countyId="1150" />
+        <district name="崇义县" countyId="1151" />
+        <district name="安远县" countyId="1152" />
+        <district name="龙南县" countyId="1153" />
+        <district name="定南县" countyId="1154" />
+        <district name="全南县" countyId="1155" />
+        <district name="宁都县" countyId="1156" />
+        <district name="于都县" countyId="1157" />
+        <district name="兴国县" countyId="1158" />
+        <district name="会昌县" countyId="1159" />
+        <district name="寻乌县" countyId="1160" />
+        <district name="石城县" countyId="1161" />
+        <district name="瑞金市" countyId="1162" />
+        <district name="南康市" countyId="1163" />
+    </city>
+    <city name="吉安市">
+        <district name="吉州区" countyId="1164" />
+        <district name="青原区" countyId="1165" />
+        <district name="吉安县" countyId="1166" />
+        <district name="吉水县" countyId="1167" />
+        <district name="峡江县" countyId="1168" />
+        <district name="新干县" countyId="1169" />
+        <district name="永丰县" countyId="1170" />
+        <district name="泰和县" countyId="1171" />
+        <district name="遂川县" countyId="1172" />
+        <district name="万安县" countyId="1173" />
+        <district name="安福县" countyId="1174" />
+        <district name="永新县" countyId="1175" />
+        <district name="井冈山市" countyId="1176" />
+    </city>
+    <city name="宜春市">
+        <district name="袁州区" countyId="1177" />
+        <district name="奉新县" countyId="1178" />
+        <district name="万载县" countyId="1179" />
+        <district name="上高县" countyId="1180" />
+        <district name="宜丰县" countyId="1181" />
+        <district name="靖安县" countyId="1182" />
+        <district name="铜鼓县" countyId="1183" />
+        <district name="丰城市" countyId="1184" />
+        <district name="樟树市" countyId="1185" />
+        <district name="高安市" countyId="1186" />
+    </city>
+    <city name="抚州市">
+        <district name="临川区" countyId="1187" />
+        <district name="南城县" countyId="1188" />
+        <district name="黎川县" countyId="1189" />
+        <district name="南丰县" countyId="1190" />
+        <district name="崇仁县" countyId="1191" />
+        <district name="乐安县" countyId="1192" />
+        <district name="宜黄县" countyId="1193" />
+        <district name="金溪县" countyId="1194" />
+        <district name="资溪县" countyId="1195" />
+        <district name="东乡县" countyId="1196" />
+        <district name="广昌县" countyId="1197" />
+    </city>
+    <city name="上饶市">
+        <district name="信州区" countyId="1198" />
+        <district name="上饶县" countyId="1199" />
+        <district name="广丰县" countyId="1200" />
+        <district name="玉山县" countyId="1201" />
+        <district name="铅山县" countyId="1202" />
+        <district name="横峰县" countyId="1203" />
+        <district name="弋阳县" countyId="1204" />
+        <district name="余干县" countyId="1205" />
+        <district name="鄱阳县" countyId="1206" />
+        <district name="万年县" countyId="1207" />
+        <district name="婺源县" countyId="1208" />
+        <district name="德兴市" countyId="1209" />
+    </city>
+</province>
+<province name="山东省">
+    <city name="济南市">
+        <district name="历下区" countyId="1210" />
+        <district name="市中区" countyId="1211" />
+        <district name="槐荫区" countyId="1212" />
+        <district name="天桥区" countyId="1213" />
+        <district name="历城区" countyId="1214" />
+        <district name="长清区" countyId="1215" />
+        <district name="平阴县" countyId="1216" />
+        <district name="济阳县" countyId="1217" />
+        <district name="商河县" countyId="1218" />
+        <district name="章丘市" countyId="1219" />
+    </city>
+    <city name="青岛市">
+        <district name="市南区" countyId="1220" />
+        <district name="市北区" countyId="1221" />
+        <district name="黄岛区" countyId="1222" />
+        <district name="崂山区" countyId="1223" />
+        <district name="李沧区" countyId="1224" />
+        <district name="城阳区" countyId="1225" />
+        <district name="胶州市" countyId="1226" />
+        <district name="即墨市" countyId="1227" />
+        <district name="平度市" countyId="1228" />
+        <district name="莱西市" countyId="1229" />
+    </city>
+    <city name="淄博市">
+        <district name="淄川区" countyId="1230" />
+        <district name="张店区" countyId="1231" />
+        <district name="博山区" countyId="1232" />
+        <district name="临淄区" countyId="1233" />
+        <district name="周村区" countyId="1234" />
+        <district name="桓台县" countyId="1235" />
+        <district name="高青县" countyId="1236" />
+        <district name="沂源县" countyId="1237" />
+    </city>
+    <city name="枣庄市">
+        <district name="市中区" countyId="1238" />
+        <district name="薛城区" countyId="1239" />
+        <district name="峄城区" countyId="1240" />
+        <district name="台儿庄区" countyId="1241" />
+        <district name="山亭区" countyId="1242" />
+        <district name="滕州市" countyId="1243" />
+    </city>
+    <city name="东营市">
+        <district name="东营区" countyId="1244" />
+        <district name="河口区" countyId="1245" />
+        <district name="垦利县" countyId="1246" />
+        <district name="利津县" countyId="1247" />
+        <district name="广饶县" countyId="1248" />
+    </city>
+    <city name="烟台市">
+        <district name="芝罘区" countyId="1249" />
+        <district name="福山区" countyId="1250" />
+        <district name="牟平区" countyId="1251" />
+        <district name="莱山区" countyId="1252" />
+        <district name="长岛县" countyId="1253" />
+        <district name="龙口市" countyId="1254" />
+        <district name="莱阳市" countyId="1255" />
+        <district name="莱州市" countyId="1256" />
+        <district name="蓬莱市" countyId="1257" />
+        <district name="招远市" countyId="1258" />
+        <district name="栖霞市" countyId="1259" />
+        <district name="海阳市" countyId="1260" />
+    </city>
+    <city name="潍坊市">
+        <district name="潍城区" countyId="1261" />
+        <district name="寒亭区" countyId="1262" />
+        <district name="坊子区" countyId="1263" />
+        <district name="奎文区" countyId="1264" />
+        <district name="临朐县" countyId="1265" />
+        <district name="昌乐县" countyId="1266" />
+        <district name="青州市" countyId="1267" />
+        <district name="诸城市" countyId="1268" />
+        <district name="寿光市" countyId="1269" />
+        <district name="安丘市" countyId="1270" />
+        <district name="高密市" countyId="1271" />
+        <district name="昌邑市" countyId="1272" />
+    </city>
+    <city name="济宁市">
+        <district name="市中区" countyId="1273" />
+        <district name="任城区" countyId="1274" />
+        <district name="微山县" countyId="1275" />
+        <district name="鱼台县" countyId="1276" />
+        <district name="金乡县" countyId="1277" />
+        <district name="嘉祥县" countyId="1278" />
+        <district name="汶上县" countyId="1279" />
+        <district name="泗水县" countyId="1280" />
+        <district name="梁山县" countyId="1281" />
+        <district name="曲阜市" countyId="1282" />
+        <district name="兖州市" countyId="1283" />
+        <district name="邹城市" countyId="1284" />
+    </city>
+    <city name="泰安市">
+        <district name="泰山区" countyId="1285" />
+        <district name="岱岳区" countyId="1286" />
+        <district name="宁阳县" countyId="1287" />
+        <district name="东平县" countyId="1288" />
+        <district name="新泰市" countyId="1289" />
+        <district name="肥城市" countyId="1290" />
+    </city>
+    <city name="威海市">
+        <district name="环翠区" countyId="1291" />
+        <district name="文登市" countyId="1292" />
+        <district name="荣成市" countyId="1293" />
+        <district name="乳山市" countyId="1294" />
+    </city>
+    <city name="日照市">
+        <district name="东港区" countyId="1295" />
+        <district name="岚山区" countyId="1296" />
+        <district name="五莲县" countyId="1297" />
+        <district name="莒县" countyId="1298" />
+    </city>
+    <city name="莱芜市">
+        <district name="莱城区" countyId="1299" />
+        <district name="钢城区" countyId="1300" />
+    </city>
+    <city name="临沂市">
+        <district name="兰山区" countyId="1301" />
+        <district name="罗庄区" countyId="1302" />
+        <district name="河东区" countyId="1303" />
+        <district name="沂南县" countyId="1304" />
+        <district name="郯城县" countyId="1305" />
+        <district name="沂水县" countyId="1306" />
+        <district name="苍山县" countyId="1307" />
+        <district name="费县" countyId="1308" />
+        <district name="平邑县" countyId="1309" />
+        <district name="莒南县" countyId="1310" />
+        <district name="蒙阴县" countyId="1311" />
+        <district name="临沭县" countyId="1312" />
+    </city>
+    <city name="德州市">
+        <district name="德城区" countyId="1313" />
+        <district name="陵县" countyId="1314" />
+        <district name="宁津县" countyId="1315" />
+        <district name="庆云县" countyId="1316" />
+        <district name="临邑县" countyId="1317" />
+        <district name="齐河县" countyId="1318" />
+        <district name="平原县" countyId="1319" />
+        <district name="夏津县" countyId="1320" />
+        <district name="武城县" countyId="1321" />
+        <district name="乐陵市" countyId="1322" />
+        <district name="禹城市" countyId="1323" />
+    </city>
+    <city name="聊城市">
+        <district name="东昌府区" countyId="1324" />
+        <district name="阳谷县" countyId="1325" />
+        <district name="莘县" countyId="1326" />
+        <district name="茌平县" countyId="1327" />
+        <district name="东阿县" countyId="1328" />
+        <district name="冠县" countyId="1329" />
+        <district name="高唐县" countyId="1330" />
+        <district name="临清市" countyId="1331" />
+    </city>
+    <city name="滨州市">
+        <district name="滨城区" countyId="1332" />
+        <district name="惠民县" countyId="1333" />
+        <district name="阳信县" countyId="1334" />
+        <district name="无棣县" countyId="1335" />
+        <district name="沾化县" countyId="1336" />
+        <district name="博兴县" countyId="1337" />
+        <district name="邹平县" countyId="1338" />
+    </city>
+    <city name="菏泽市">
+        <district name="牡丹区" countyId="1339" />
+        <district name="曹县" countyId="1340" />
+        <district name="单县" countyId="1341" />
+        <district name="成武县" countyId="1342" />
+        <district name="巨野县" countyId="1343" />
+        <district name="郓城县" countyId="1344" />
+        <district name="鄄城县" countyId="1345" />
+        <district name="定陶县" countyId="1346" />
+        <district name="东明县" countyId="1347" />
+    </city>
+</province>
+<province name="河南省">
+    <city name="郑州市">
+        <district name="中原区" countyId="1348" />
+        <district name="二七区" countyId="1349" />
+        <district name="管城回族区" countyId="1350" />
+        <district name="金水区" countyId="1351" />
+        <district name="上街区" countyId="1352" />
+        <district name="惠济区" countyId="1353" />
+        <district name="中牟县" countyId="1354" />
+        <district name="巩义市" countyId="1355" />
+        <district name="荥阳市" countyId="1356" />
+        <district name="新密市" countyId="1357" />
+        <district name="新郑市" countyId="1358" />
+        <district name="登封市" countyId="1359" />
+    </city>
+    <city name="开封市">
+        <district name="龙亭区" countyId="1360" />
+        <district name="顺河回族区" countyId="1361" />
+        <district name="鼓楼区" countyId="1362" />
+        <district name="禹王台区" countyId="1363" />
+        <district name="金明区" countyId="1364" />
+        <district name="杞县" countyId="1365" />
+        <district name="通许县" countyId="1366" />
+        <district name="尉氏县" countyId="1367" />
+        <district name="开封县" countyId="1368" />
+        <district name="兰考县" countyId="1369" />
+    </city>
+    <city name="洛阳市">
+        <district name="老城区" countyId="1370" />
+        <district name="西工区" countyId="1371" />
+        <district name="瀍河回族区" countyId="1372" />
+        <district name="涧西区" countyId="1373" />
+        <district name="吉利区" countyId="1374" />
+        <district name="洛龙区" countyId="1375" />
+        <district name="孟津县" countyId="1376" />
+        <district name="新安县" countyId="1377" />
+        <district name="栾川县" countyId="1378" />
+        <district name="嵩县" countyId="1379" />
+        <district name="汝阳县" countyId="1380" />
+        <district name="宜阳县" countyId="1381" />
+        <district name="洛宁县" countyId="1382" />
+        <district name="伊川县" countyId="1383" />
+        <district name="偃师市" countyId="1384" />
+    </city>
+    <city name="平顶山市">
+        <district name="新华区" countyId="1385" />
+        <district name="卫东区" countyId="1386" />
+        <district name="石龙区" countyId="1387" />
+        <district name="湛河区" countyId="1388" />
+        <district name="宝丰县" countyId="1389" />
+        <district name="叶县" countyId="1390" />
+        <district name="鲁山县" countyId="1391" />
+        <district name="郏县" countyId="1392" />
+        <district name="舞钢市" countyId="1393" />
+        <district name="汝州市" countyId="1394" />
+    </city>
+    <city name="安阳市">
+        <district name="文峰区" countyId="1395" />
+        <district name="北关区" countyId="1396" />
+        <district name="殷都区" countyId="1397" />
+        <district name="龙安区" countyId="1398" />
+        <district name="安阳县" countyId="1399" />
+        <district name="汤阴县" countyId="1400" />
+        <district name="滑县" countyId="1401" />
+        <district name="内黄县" countyId="1402" />
+        <district name="林州市" countyId="1403" />
+    </city>
+    <city name="鹤壁市">
+        <district name="鹤山区" countyId="1404" />
+        <district name="山城区" countyId="1405" />
+        <district name="淇滨区" countyId="1406" />
+        <district name="浚县" countyId="1407" />
+        <district name="淇县" countyId="1408" />
+    </city>
+    <city name="新乡市">
+        <district name="红旗区" countyId="1409" />
+        <district name="卫滨区" countyId="1410" />
+        <district name="凤泉区" countyId="1411" />
+        <district name="牧野区" countyId="1412" />
+        <district name="新乡县" countyId="1413" />
+        <district name="获嘉县" countyId="1414" />
+        <district name="原阳县" countyId="1415" />
+        <district name="延津县" countyId="1416" />
+        <district name="封丘县" countyId="1417" />
+        <district name="长垣县" countyId="1418" />
+        <district name="卫辉市" countyId="1419" />
+        <district name="辉县市" countyId="1420" />
+    </city>
+    <city name="焦作市">
+        <district name="解放区" countyId="1421" />
+        <district name="中站区" countyId="1422" />
+        <district name="马村区" countyId="1423" />
+        <district name="山阳区" countyId="1424" />
+        <district name="修武县" countyId="1425" />
+        <district name="博爱县" countyId="1426" />
+        <district name="武陟县" countyId="1427" />
+        <district name="温县" countyId="1428" />
+        <district name="沁阳市" countyId="1429" />
+        <district name="孟州市" countyId="1430" />
+    </city>
+    <city name="濮阳市">
+        <district name="华龙区" countyId="1431" />
+        <district name="清丰县" countyId="1432" />
+        <district name="南乐县" countyId="1433" />
+        <district name="范县" countyId="1434" />
+        <district name="台前县" countyId="1435" />
+        <district name="濮阳县" countyId="1436" />
+    </city>
+    <city name="许昌市">
+        <district name="魏都区" countyId="1437" />
+        <district name="许昌县" countyId="1438" />
+        <district name="鄢陵县" countyId="1439" />
+        <district name="襄城县" countyId="1440" />
+        <district name="禹州市" countyId="1441" />
+        <district name="长葛市" countyId="1442" />
+    </city>
+    <city name="漯河市">
+        <district name="源汇区" countyId="1443" />
+        <district name="郾城区" countyId="1444" />
+        <district name="召陵区" countyId="1445" />
+        <district name="舞阳县" countyId="1446" />
+        <district name="临颍县" countyId="1447" />
+    </city>
+    <city name="三门峡市">
+        <district name="湖滨区" countyId="1448" />
+        <district name="渑池县" countyId="1449" />
+        <district name="陕县" countyId="1450" />
+        <district name="卢氏县" countyId="1451" />
+        <district name="义马市" countyId="1452" />
+        <district name="灵宝市" countyId="1453" />
+    </city>
+    <city name="南阳市">
+        <district name="宛城区" countyId="1454" />
+        <district name="卧龙区" countyId="1455" />
+        <district name="南召县" countyId="1456" />
+        <district name="方城县" countyId="1457" />
+        <district name="西峡县" countyId="1458" />
+        <district name="镇平县" countyId="1459" />
+        <district name="内乡县" countyId="1460" />
+        <district name="淅川县" countyId="1461" />
+        <district name="社旗县" countyId="1462" />
+        <district name="唐河县" countyId="1463" />
+        <district name="新野县" countyId="1464" />
+        <district name="桐柏县" countyId="1465" />
+        <district name="邓州市" countyId="1466" />
+    </city>
+    <city name="商丘市">
+        <district name="梁园区" countyId="1467" />
+        <district name="睢阳区" countyId="1468" />
+        <district name="民权县" countyId="1469" />
+        <district name="睢县" countyId="1470" />
+        <district name="宁陵县" countyId="1471" />
+        <district name="柘城县" countyId="1472" />
+        <district name="虞城县" countyId="1473" />
+        <district name="夏邑县" countyId="1474" />
+        <district name="永城市" countyId="1475" />
+    </city>
+    <city name="信阳市">
+        <district name="浉河区" countyId="1476" />
+        <district name="平桥区" countyId="1477" />
+        <district name="罗山县" countyId="1478" />
+        <district name="光山县" countyId="1479" />
+        <district name="新县" countyId="1480" />
+        <district name="商城县" countyId="1481" />
+        <district name="固始县" countyId="1482" />
+        <district name="潢川县" countyId="1483" />
+        <district name="淮滨县" countyId="1484" />
+        <district name="息县" countyId="1485" />
+    </city>
+    <city name="周口市">
+        <district name="川汇区" countyId="1486" />
+        <district name="扶沟县" countyId="1487" />
+        <district name="西华县" countyId="1488" />
+        <district name="商水县" countyId="1489" />
+        <district name="沈丘县" countyId="1490" />
+        <district name="郸城县" countyId="1491" />
+        <district name="淮阳县" countyId="1492" />
+        <district name="太康县" countyId="1493" />
+        <district name="鹿邑县" countyId="1494" />
+        <district name="项城市" countyId="1495" />
+    </city>
+    <city name="驻马店市">
+        <district name="驿城区" countyId="1496" />
+        <district name="西平县" countyId="1497" />
+        <district name="上蔡县" countyId="1498" />
+        <district name="平舆县" countyId="1499" />
+        <district name="正阳县" countyId="1500" />
+        <district name="确山县" countyId="1501" />
+        <district name="泌阳县" countyId="1502" />
+        <district name="汝南县" countyId="1503" />
+        <district name="遂平县" countyId="1504" />
+        <district name="新蔡县" countyId="1505" />
+    </city>
+    <city name="省直辖县级行政区划">
+        <district name="济源市" countyId="1506" />
+    </city>
+</province>
+<province name="湖北省">
+    <city name="武汉市">
+        <district name="江岸区" countyId="1507" />
+        <district name="江汉区" countyId="1508" />
+        <district name="硚口区" countyId="1509" />
+        <district name="汉阳区" countyId="1510" />
+        <district name="武昌区" countyId="1511" />
+        <district name="青山区" countyId="1512" />
+        <district name="洪山区" countyId="1513" />
+        <district name="东西湖区" countyId="1514" />
+        <district name="汉南区" countyId="1515" />
+        <district name="蔡甸区" countyId="1516" />
+        <district name="江夏区" countyId="1517" />
+        <district name="黄陂区" countyId="1518" />
+        <district name="新洲区" countyId="1519" />
+    </city>
+    <city name="黄石市">
+        <district name="黄石港区" countyId="1520" />
+        <district name="西塞山区" countyId="1521" />
+        <district name="下陆区" countyId="1522" />
+        <district name="铁山区" countyId="1523" />
+        <district name="阳新县" countyId="1524" />
+        <district name="大冶市" countyId="1525" />
+    </city>
+    <city name="十堰市">
+        <district name="茅箭区" countyId="1526" />
+        <district name="张湾区" countyId="1527" />
+        <district name="郧县" countyId="1528" />
+        <district name="郧西县" countyId="1529" />
+        <district name="竹山县" countyId="1530" />
+        <district name="竹溪县" countyId="1531" />
+        <district name="房县" countyId="1532" />
+        <district name="丹江口市" countyId="1533" />
+    </city>
+    <city name="宜昌市">
+        <district name="西陵区" countyId="1534" />
+        <district name="伍家岗区" countyId="1535" />
+        <district name="点军区" countyId="1536" />
+        <district name="猇亭区" countyId="1537" />
+        <district name="夷陵区" countyId="1538" />
+        <district name="远安县" countyId="1539" />
+        <district name="兴山县" countyId="1540" />
+        <district name="秭归县" countyId="1541" />
+        <district name="长阳土家族自治县" countyId="1542" />
+        <district name="五峰土家族自治县" countyId="1543" />
+        <district name="宜都市" countyId="1544" />
+        <district name="当阳市" countyId="1545" />
+        <district name="枝江市" countyId="1546" />
+    </city>
+    <city name="襄阳市">
+        <district name="襄城区" countyId="1547" />
+        <district name="樊城区" countyId="1548" />
+        <district name="襄州区" countyId="1549" />
+        <district name="南漳县" countyId="1550" />
+        <district name="谷城县" countyId="1551" />
+        <district name="保康县" countyId="1552" />
+        <district name="老河口市" countyId="1553" />
+        <district name="枣阳市" countyId="1554" />
+        <district name="宜城市" countyId="1555" />
+    </city>
+    <city name="鄂州市">
+        <district name="梁子湖区" countyId="1556" />
+        <district name="华容区" countyId="1557" />
+        <district name="鄂城区" countyId="1558" />
+    </city>
+    <city name="荆门市">
+        <district name="东宝区" countyId="1559" />
+        <district name="掇刀区" countyId="1560" />
+        <district name="京山县" countyId="1561" />
+        <district name="沙洋县" countyId="1562" />
+        <district name="钟祥市" countyId="1563" />
+    </city>
+    <city name="孝感市">
+        <district name="孝南区" countyId="1564" />
+        <district name="孝昌县" countyId="1565" />
+        <district name="大悟县" countyId="1566" />
+        <district name="云梦县" countyId="1567" />
+        <district name="应城市" countyId="1568" />
+        <district name="安陆市" countyId="1569" />
+        <district name="汉川市" countyId="1570" />
+    </city>
+    <city name="荆州市">
+        <district name="沙市区" countyId="1571" />
+        <district name="荆州区" countyId="1572" />
+        <district name="公安县" countyId="1573" />
+        <district name="监利县" countyId="1574" />
+        <district name="江陵县" countyId="1575" />
+        <district name="石首市" countyId="1576" />
+        <district name="洪湖市" countyId="1577" />
+        <district name="松滋市" countyId="1578" />
+    </city>
+    <city name="黄冈市">
+        <district name="黄州区" countyId="1579" />
+        <district name="团风县" countyId="1580" />
+        <district name="红安县" countyId="1581" />
+        <district name="罗田县" countyId="1582" />
+        <district name="英山县" countyId="1583" />
+        <district name="浠水县" countyId="1584" />
+        <district name="蕲春县" countyId="1585" />
+        <district name="黄梅县" countyId="1586" />
+        <district name="麻城市" countyId="1587" />
+        <district name="武穴市" countyId="1588" />
+    </city>
+    <city name="咸宁市">
+        <district name="咸安区" countyId="1589" />
+        <district name="嘉鱼县" countyId="1590" />
+        <district name="通城县" countyId="1591" />
+        <district name="崇阳县" countyId="1592" />
+        <district name="通山县" countyId="1593" />
+        <district name="赤壁市" countyId="1594" />
+    </city>
+    <city name="随州市">
+        <district name="曾都区" countyId="1595" />
+        <district name="随县" countyId="1596" />
+        <district name="广水市" countyId="1597" />
+    </city>
+    <city name="恩施土家族苗族自治州">
+        <district name="恩施市" countyId="1598" />
+        <district name="利川市" countyId="1599" />
+        <district name="建始县" countyId="1600" />
+        <district name="巴东县" countyId="1601" />
+        <district name="宣恩县" countyId="1602" />
+        <district name="咸丰县" countyId="1603" />
+        <district name="来凤县" countyId="1604" />
+        <district name="鹤峰县" countyId="1605" />
+    </city>
+    <city name="省直辖县级行政区划">
+        <district name="仙桃市" countyId="1606" />
+        <district name="潜江市" countyId="1607" />
+        <district name="天门市" countyId="1608" />
+        <district name="神农架林区" countyId="1609" />
+    </city>
+</province>
+<province name="湖南省">
+    <city name="长沙市">
+        <district name="芙蓉区" countyId="1610" />
+        <district name="天心区" countyId="1611" />
+        <district name="岳麓区" countyId="1612" />
+        <district name="开福区" countyId="1613" />
+        <district name="雨花区" countyId="1614" />
+        <district name="望城区" countyId="1615" />
+        <district name="长沙县" countyId="1616" />
+        <district name="宁乡县" countyId="1617" />
+        <district name="浏阳市" countyId="1618" />
+    </city>
+    <city name="株洲市">
+        <district name="荷塘区" countyId="1619" />
+        <district name="芦淞区" countyId="1620" />
+        <district name="石峰区" countyId="1621" />
+        <district name="天元区" countyId="1622" />
+        <district name="株洲县" countyId="1623" />
+        <district name="攸县" countyId="1624" />
+        <district name="茶陵县" countyId="1625" />
+        <district name="炎陵县" countyId="1626" />
+        <district name="醴陵市" countyId="1627" />
+    </city>
+    <city name="湘潭市">
+        <district name="雨湖区" countyId="1628" />
+        <district name="岳塘区" countyId="1629" />
+        <district name="湘潭县" countyId="1630" />
+        <district name="湘乡市" countyId="1631" />
+        <district name="韶山市" countyId="1632" />
+    </city>
+    <city name="衡阳市">
+        <district name="珠晖区" countyId="1633" />
+        <district name="雁峰区" countyId="1634" />
+        <district name="石鼓区" countyId="1635" />
+        <district name="蒸湘区" countyId="1636" />
+        <district name="南岳区" countyId="1637" />
+        <district name="衡阳县" countyId="1638" />
+        <district name="衡南县" countyId="1639" />
+        <district name="衡山县" countyId="1640" />
+        <district name="衡东县" countyId="1641" />
+        <district name="祁东县" countyId="1642" />
+        <district name="耒阳市" countyId="1643" />
+        <district name="常宁市" countyId="1644" />
+    </city>
+    <city name="邵阳市">
+        <district name="双清区" countyId="1645" />
+        <district name="大祥区" countyId="1646" />
+        <district name="北塔区" countyId="1647" />
+        <district name="邵东县" countyId="1648" />
+        <district name="新邵县" countyId="1649" />
+        <district name="邵阳县" countyId="1650" />
+        <district name="隆回县" countyId="1651" />
+        <district name="洞口县" countyId="1652" />
+        <district name="绥宁县" countyId="1653" />
+        <district name="新宁县" countyId="1654" />
+        <district name="城步苗族自治县" countyId="1655" />
+        <district name="武冈市" countyId="1656" />
+    </city>
+    <city name="岳阳市">
+        <district name="岳阳楼区" countyId="1657" />
+        <district name="云溪区" countyId="1658" />
+        <district name="君山区" countyId="1659" />
+        <district name="岳阳县" countyId="1660" />
+        <district name="华容县" countyId="1661" />
+        <district name="湘阴县" countyId="1662" />
+        <district name="平江县" countyId="1663" />
+        <district name="汨罗市" countyId="1664" />
+        <district name="临湘市" countyId="1665" />
+    </city>
+    <city name="常德市">
+        <district name="武陵区" countyId="1666" />
+        <district name="鼎城区" countyId="1667" />
+        <district name="安乡县" countyId="1668" />
+        <district name="汉寿县" countyId="1669" />
+        <district name="澧县" countyId="1670" />
+        <district name="临澧县" countyId="1671" />
+        <district name="桃源县" countyId="1672" />
+        <district name="石门县" countyId="1673" />
+        <district name="津市市" countyId="1674" />
+    </city>
+    <city name="张家界市">
+        <district name="永定区" countyId="1675" />
+        <district name="武陵源区" countyId="1676" />
+        <district name="慈利县" countyId="1677" />
+        <district name="桑植县" countyId="1678" />
+    </city>
+    <city name="益阳市">
+        <district name="资阳区" countyId="1679" />
+        <district name="赫山区" countyId="1680" />
+        <district name="南县" countyId="1681" />
+        <district name="桃江县" countyId="1682" />
+        <district name="安化县" countyId="1683" />
+        <district name="沅江市" countyId="1684" />
+    </city>
+    <city name="郴州市">
+        <district name="北湖区" countyId="1685" />
+        <district name="苏仙区" countyId="1686" />
+        <district name="桂阳县" countyId="1687" />
+        <district name="宜章县" countyId="1688" />
+        <district name="永兴县" countyId="1689" />
+        <district name="嘉禾县" countyId="1690" />
+        <district name="临武县" countyId="1691" />
+        <district name="汝城县" countyId="1692" />
+        <district name="桂东县" countyId="1693" />
+        <district name="安仁县" countyId="1694" />
+        <district name="资兴市" countyId="1695" />
+    </city>
+    <city name="永州市">
+        <district name="零陵区" countyId="1696" />
+        <district name="冷水滩区" countyId="1697" />
+        <district name="祁阳县" countyId="1698" />
+        <district name="东安县" countyId="1699" />
+        <district name="双牌县" countyId="1700" />
+        <district name="道县" countyId="1701" />
+        <district name="江永县" countyId="1702" />
+        <district name="宁远县" countyId="1703" />
+        <district name="蓝山县" countyId="1704" />
+        <district name="新田县" countyId="1705" />
+        <district name="江华瑶族自治县" countyId="1706" />
+    </city>
+    <city name="怀化市">
+        <district name="鹤城区" countyId="1707" />
+        <district name="中方县" countyId="1708" />
+        <district name="沅陵县" countyId="1709" />
+        <district name="辰溪县" countyId="1710" />
+        <district name="溆浦县" countyId="1711" />
+        <district name="会同县" countyId="1712" />
+        <district name="麻阳苗族自治县" countyId="1713" />
+        <district name="新晃侗族自治县" countyId="1714" />
+        <district name="芷江侗族自治县" countyId="1715" />
+        <district name="靖州苗族侗族自治县" countyId="1716" />
+        <district name="通道侗族自治县" countyId="1717" />
+        <district name="洪江市" countyId="1718" />
+    </city>
+    <city name="娄底市">
+        <district name="娄星区" countyId="1719" />
+        <district name="双峰县" countyId="1720" />
+        <district name="新化县" countyId="1721" />
+        <district name="冷水江市" countyId="1722" />
+        <district name="涟源市" countyId="1723" />
+    </city>
+    <city name="湘西土家族苗族自治州">
+        <district name="吉首市" countyId="1724" />
+        <district name="泸溪县" countyId="1725" />
+        <district name="凤凰县" countyId="1726" />
+        <district name="花垣县" countyId="1727" />
+        <district name="保靖县" countyId="1728" />
+        <district name="古丈县" countyId="1729" />
+        <district name="永顺县" countyId="1730" />
+        <district name="龙山县" countyId="1731" />
+    </city>
+</province>
+<province name="广东省">
+    <city name="深圳市">
+        <district name="罗湖区" countyId="1754" />
+        <district name="福田区" countyId="1755" />
+        <district name="南山区" countyId="1756" />
+        <district name="宝安区" countyId="1757" />
+        <district name="龙岗区" countyId="1758" />
+        <district name="盐田区" countyId="1759" />
+    </city>
+    <city name="珠海市">
+        <district name="香洲区" countyId="1760" />
+        <district name="斗门区" countyId="1761" />
+        <district name="金湾区" countyId="1762" />
+    </city>
+    <city name="汕头市">
+        <district name="龙湖区" countyId="1763" />
+        <district name="金平区" countyId="1764" />
+        <district name="濠江区" countyId="1765" />
+        <district name="潮阳区" countyId="1766" />
+        <district name="潮南区" countyId="1767" />
+        <district name="澄海区" countyId="1768" />
+        <district name="南澳县" countyId="1769" />
+    </city>
+    <city name="佛山市">
+        <district name="禅城区" countyId="1770" />
+        <district name="南海区" countyId="1771" />
+        <district name="顺德区" countyId="1772" />
+        <district name="三水区" countyId="1773" />
+        <district name="高明区" countyId="1774" />
+    </city>
+    <city name="江门市">
+        <district name="蓬江区" countyId="1775" />
+        <district name="江海区" countyId="1776" />
+        <district name="新会区" countyId="1777" />
+        <district name="台山市" countyId="1778" />
+        <district name="开平市" countyId="1779" />
+        <district name="鹤山市" countyId="1780" />
+        <district name="恩平市" countyId="1781" />
+    </city>
+    <city name="湛江市">
+        <district name="赤坎区" countyId="1782" />
+        <district name="霞山区" countyId="1783" />
+        <district name="坡头区" countyId="1784" />
+        <district name="麻章区" countyId="1785" />
+        <district name="遂溪县" countyId="1786" />
+        <district name="徐闻县" countyId="1787" />
+        <district name="廉江市" countyId="1788" />
+        <district name="雷州市" countyId="1789" />
+        <district name="吴川市" countyId="1790" />
+    </city>
+    <city name="茂名市">
+        <district name="茂南区" countyId="1791" />
+        <district name="茂港区" countyId="1792" />
+        <district name="电白县" countyId="1793" />
+        <district name="高州市" countyId="1794" />
+        <district name="化州市" countyId="1795" />
+        <district name="信宜市" countyId="1796" />
+    </city>
+    <city name="肇庆市">
+        <district name="端州区" countyId="1797" />
+        <district name="鼎湖区" countyId="1798" />
+        <district name="广宁县" countyId="1799" />
+        <district name="怀集县" countyId="1800" />
+        <district name="封开县" countyId="1801" />
+        <district name="德庆县" countyId="1802" />
+        <district name="高要市" countyId="1803" />
+        <district name="四会市" countyId="1804" />
+    </city>
+    <city name="惠州市">
+        <district name="惠城区" countyId="1805" />
+        <district name="惠阳区" countyId="1806" />
+        <district name="博罗县" countyId="1807" />
+        <district name="惠东县" countyId="1808" />
+        <district name="龙门县" countyId="1809" />
+    </city>
+    <city name="梅州市">
+        <district name="梅江区" countyId="1810" />
+        <district name="梅县" countyId="1811" />
+        <district name="大埔县" countyId="1812" />
+        <district name="丰顺县" countyId="1813" />
+        <district name="五华县" countyId="1814" />
+        <district name="平远县" countyId="1815" />
+        <district name="蕉岭县" countyId="1816" />
+        <district name="兴宁市" countyId="1817" />
+    </city>
+    <city name="汕尾市">
+        <district name="城区" countyId="1818" />
+        <district name="海丰县" countyId="1819" />
+        <district name="陆河县" countyId="1820" />
+        <district name="陆丰市" countyId="1821" />
+    </city>
+    <city name="河源市">
+        <district name="源城区" countyId="1822" />
+        <district name="紫金县" countyId="1823" />
+        <district name="龙川县" countyId="1824" />
+        <district name="连平县" countyId="1825" />
+        <district name="和平县" countyId="1826" />
+        <district name="东源县" countyId="1827" />
+    </city>
+    <city name="阳江市">
+        <district name="江城区" countyId="1828" />
+        <district name="阳西县" countyId="1829" />
+        <district name="阳东县" countyId="1830" />
+        <district name="阳春市" countyId="1831" />
+    </city>
+    <city name="清远市">
+        <district name="清城区" countyId="1832" />
+        <district name="清新区" countyId="1833" />
+        <district name="佛冈县" countyId="1834" />
+        <district name="阳山县" countyId="1835" />
+        <district name="连山壮族瑶族自治县" countyId="1836" />
+        <district name="连南瑶族自治县" countyId="1837" />
+        <district name="英德市" countyId="1838" />
+        <district name="连州市" countyId="1839" />
+    </city>
+    <city name="东莞市">
+    </city>
+    <city name="中山市">
+    </city>
+    <city name="潮州市">
+        <district name="湘桥区" countyId="1840" />
+        <district name="潮安区" countyId="1841" />
+        <district name="饶平县" countyId="1842" />
+    </city>
+    <city name="揭阳市">
+        <district name="榕城区" countyId="1843" />
+        <district name="揭东区" countyId="1844" />
+        <district name="揭西县" countyId="1845" />
+        <district name="惠来县" countyId="1846" />
+        <district name="普宁市" countyId="1847" />
+    </city>
+    <city name="云浮市">
+        <district name="云城区" countyId="1848" />
+        <district name="新兴县" countyId="1849" />
+        <district name="郁南县" countyId="1850" />
+        <district name="云安县" countyId="1851" />
+        <district name="罗定市" countyId="1852" />
+    </city>
+    <city name="广州市">
+        <district name="荔湾区" countyId="1732" />
+        <district name="越秀区" countyId="1733" />
+        <district name="海珠区" countyId="1734" />
+        <district name="天河区" countyId="1735" />
+        <district name="白云区" countyId="1736" />
+        <district name="黄埔区" countyId="1737" />
+        <district name="番禺区" countyId="1738" />
+        <district name="花都区" countyId="1739" />
+        <district name="南沙区" countyId="1740" />
+        <district name="萝岗区" countyId="1741" />
+        <district name="增城市" countyId="1742" />
+        <district name="从化市" countyId="1743" />
+    </city>
+    <city name="韶关市">
+        <district name="武江区" countyId="1744" />
+        <district name="浈江区" countyId="1745" />
+        <district name="曲江区" countyId="1746" />
+        <district name="始兴县" countyId="1747" />
+        <district name="仁化县" countyId="1748" />
+        <district name="翁源县" countyId="1749" />
+        <district name="乳源瑶族自治县" countyId="1750" />
+        <district name="新丰县" countyId="1751" />
+        <district name="乐昌市" countyId="1752" />
+        <district name="南雄市" countyId="1753" />
+    </city>
+</province>
+<province name="广西省">
+    <city name="南宁市">
+        <district name="兴宁区" countyId="1853" />
+        <district name="青秀区" countyId="1854" />
+        <district name="江南区" countyId="1855" />
+        <district name="西乡塘区" countyId="1856" />
+        <district name="良庆区" countyId="1857" />
+        <district name="邕宁区" countyId="1858" />
+        <district name="武鸣县" countyId="1859" />
+        <district name="隆安县" countyId="1860" />
+        <district name="马山县" countyId="1861" />
+        <district name="上林县" countyId="1862" />
+        <district name="宾阳县" countyId="1863" />
+        <district name="横县" countyId="1864" />
+    </city>
+    <city name="柳州市">
+        <district name="城中区" countyId="1865" />
+        <district name="鱼峰区" countyId="1866" />
+        <district name="柳南区" countyId="1867" />
+        <district name="柳北区" countyId="1868" />
+        <district name="柳江县" countyId="1869" />
+        <district name="柳城县" countyId="1870" />
+        <district name="鹿寨县" countyId="1871" />
+        <district name="融安县" countyId="1872" />
+        <district name="融水苗族自治县" countyId="1873" />
+        <district name="三江侗族自治县" countyId="1874" />
+    </city>
+    <city name="桂林市">
+        <district name="秀峰区" countyId="1875" />
+        <district name="叠彩区" countyId="1876" />
+        <district name="象山区" countyId="1877" />
+        <district name="七星区" countyId="1878" />
+        <district name="雁山区" countyId="1879" />
+        <district name="临桂区" countyId="1880" />
+        <district name="阳朔县" countyId="1881" />
+        <district name="灵川县" countyId="1882" />
+        <district name="全州县" countyId="1883" />
+        <district name="兴安县" countyId="1884" />
+        <district name="永福县" countyId="1885" />
+        <district name="灌阳县" countyId="1886" />
+        <district name="龙胜各族自治县" countyId="1887" />
+        <district name="资源县" countyId="1888" />
+        <district name="平乐县" countyId="1889" />
+        <district name="荔浦县" countyId="1890" />
+        <district name="恭城瑶族自治县" countyId="1891" />
+    </city>
+    <city name="梧州市">
+        <district name="万秀区" countyId="1892" />
+        <district name="长洲区" countyId="1893" />
+        <district name="龙圩区" countyId="1894" />
+        <district name="苍梧县" countyId="1895" />
+        <district name="藤县" countyId="1896" />
+        <district name="蒙山县" countyId="1897" />
+        <district name="岑溪市" countyId="1898" />
+    </city>
+    <city name="北海市">
+        <district name="海城区" countyId="1899" />
+        <district name="银海区" countyId="1900" />
+        <district name="铁山港区" countyId="1901" />
+        <district name="合浦县" countyId="1902" />
+    </city>
+    <city name="防城港市">
+        <district name="港口区" countyId="1903" />
+        <district name="防城区" countyId="1904" />
+        <district name="上思县" countyId="1905" />
+        <district name="东兴市" countyId="1906" />
+    </city>
+    <city name="钦州市">
+        <district name="钦南区" countyId="1907" />
+        <district name="钦北区" countyId="1908" />
+        <district name="灵山县" countyId="1909" />
+        <district name="浦北县" countyId="1910" />
+    </city>
+    <city name="贵港市">
+        <district name="港北区" countyId="1911" />
+        <district name="港南区" countyId="1912" />
+        <district name="覃塘区" countyId="1913" />
+        <district name="平南县" countyId="1914" />
+        <district name="桂平市" countyId="1915" />
+    </city>
+    <city name="玉林市">
+        <district name="玉州区" countyId="1916" />
+        <district name="福绵区" countyId="1917" />
+        <district name="容县" countyId="1918" />
+        <district name="陆川县" countyId="1919" />
+        <district name="博白县" countyId="1920" />
+        <district name="兴业县" countyId="1921" />
+        <district name="北流市" countyId="1922" />
+    </city>
+    <city name="百色市">
+        <district name="右江区" countyId="1923" />
+        <district name="田阳县" countyId="1924" />
+        <district name="田东县" countyId="1925" />
+        <district name="平果县" countyId="1926" />
+        <district name="德保县" countyId="1927" />
+        <district name="靖西县" countyId="1928" />
+        <district name="那坡县" countyId="1929" />
+        <district name="凌云县" countyId="1930" />
+        <district name="乐业县" countyId="1931" />
+        <district name="田林县" countyId="1932" />
+        <district name="西林县" countyId="1933" />
+        <district name="隆林各族自治县" countyId="1934" />
+    </city>
+    <city name="贺州市">
+        <district name="八步区" countyId="1935" />
+        <district name="昭平县" countyId="1936" />
+        <district name="钟山县" countyId="1937" />
+        <district name="富川瑶族自治县" countyId="1938" />
+    </city>
+    <city name="河池市">
+        <district name="金城江区" countyId="1939" />
+        <district name="南丹县" countyId="1940" />
+        <district name="天峨县" countyId="1941" />
+        <district name="凤山县" countyId="1942" />
+        <district name="东兰县" countyId="1943" />
+        <district name="罗城仫佬族自治县" countyId="1944" />
+        <district name="环江毛南族自治县" countyId="1945" />
+        <district name="巴马瑶族自治县" countyId="1946" />
+        <district name="都安瑶族自治县" countyId="1947" />
+        <district name="大化瑶族自治县" countyId="1948" />
+        <district name="宜州市" countyId="1949" />
+    </city>
+    <city name="来宾市">
+        <district name="兴宾区" countyId="1950" />
+        <district name="忻城县" countyId="1951" />
+        <district name="象州县" countyId="1952" />
+        <district name="武宣县" countyId="1953" />
+        <district name="金秀瑶族自治县" countyId="1954" />
+        <district name="合山市" countyId="1955" />
+    </city>
+    <city name="崇左市">
+        <district name="江州区" countyId="1956" />
+        <district name="扶绥县" countyId="1957" />
+        <district name="宁明县" countyId="1958" />
+        <district name="龙州县" countyId="1959" />
+        <district name="大新县" countyId="1960" />
+        <district name="天等县" countyId="1961" />
+        <district name="凭祥市" countyId="1962" />
+    </city>
+</province>
+<province name="海南省">
+    <city name="海口市">
+        <district name="秀英区" countyId="1963" />
+        <district name="龙华区" countyId="1964" />
+        <district name="琼山区" countyId="1965" />
+        <district name="美兰区" countyId="1966" />
+    </city>
+    <city name="三亚市">
+        <district name="市辖区" countyId="1967" />
+    </city>
+    <city name="三沙市">
+        <district name="西沙群岛" countyId="1968" />
+        <district name="南沙群岛" countyId="1969" />
+        <district name="中沙群岛的岛礁及其海域" countyId="1970" />
+    </city>
+    <city name="省直辖县级行政区划">
+        <district name="五指山市" countyId="1971" />
+        <district name="琼海市" countyId="1972" />
+        <district name="儋州市" countyId="1973" />
+        <district name="文昌市" countyId="1974" />
+        <district name="万宁市" countyId="1975" />
+        <district name="东方市" countyId="1976" />
+        <district name="定安县" countyId="1977" />
+        <district name="屯昌县" countyId="1978" />
+        <district name="澄迈县" countyId="1979" />
+        <district name="临高县" countyId="1980" />
+        <district name="白沙黎族自治县" countyId="1981" />
+        <district name="昌江黎族自治县" countyId="1982" />
+        <district name="乐东黎族自治县" countyId="1983" />
+        <district name="陵水黎族自治县" countyId="1984" />
+        <district name="保亭黎族苗族自治县" countyId="1985" />
+        <district name="琼中黎族苗族自治县" countyId="1986" />
+    </city>
+</province>
+<province name="重庆市">
+    <city name="市辖区">
+        <district name="万州区" countyId="1987" />
+        <district name="涪陵区" countyId="1988" />
+        <district name="渝中区" countyId="1989" />
+        <district name="大渡口区" countyId="1990" />
+        <district name="江北区" countyId="1991" />
+        <district name="沙坪坝区" countyId="1992" />
+        <district name="九龙坡区" countyId="1993" />
+        <district name="南岸区" countyId="1994" />
+        <district name="北碚区" countyId="1995" />
+        <district name="綦江区" countyId="1996" />
+        <district name="大足区" countyId="1997" />
+        <district name="渝北区" countyId="1998" />
+        <district name="巴南区" countyId="1999" />
+        <district name="黔江区" countyId="2000" />
+        <district name="长寿区" countyId="2001" />
+        <district name="江津区" countyId="2002" />
+        <district name="合川区" countyId="2003" />
+        <district name="永川区" countyId="2004" />
+        <district name="南川区" countyId="2005" />
+    </city>
+    <city name="市辖县">
+        <district name="潼南县" countyId="2006" />
+        <district name="铜梁县" countyId="2007" />
+        <district name="荣昌县" countyId="2008" />
+        <district name="璧山县" countyId="2009" />
+        <district name="梁平县" countyId="2010" />
+        <district name="城口县" countyId="2011" />
+        <district name="丰都县" countyId="2012" />
+        <district name="垫江县" countyId="2013" />
+        <district name="武隆县" countyId="2014" />
+        <district name="忠县" countyId="2015" />
+        <district name="开县" countyId="2016" />
+        <district name="云阳县" countyId="2017" />
+        <district name="奉节县" countyId="2018" />
+        <district name="巫山县" countyId="2019" />
+        <district name="巫溪县" countyId="2020" />
+        <district name="石柱土家族自治县" countyId="2021" />
+        <district name="秀山土家族苗族自治县" countyId="2022" />
+        <district name="酉阳土家族苗族自治县" countyId="2023" />
+        <district name="彭水苗族土家族自治县" countyId="2024" />
+    </city>
+</province>
+<province name="四川省">
+    <city name="成都市">
+        <district name="锦江区" countyId="2025" />
+        <district name="青羊区" countyId="2026" />
+        <district name="金牛区" countyId="2027" />
+        <district name="武侯区" countyId="2028" />
+        <district name="成华区" countyId="2029" />
+        <district name="龙泉驿区" countyId="2030" />
+        <district name="青白江区" countyId="2031" />
+        <district name="新都区" countyId="2032" />
+        <district name="温江区" countyId="2033" />
+        <district name="金堂县" countyId="2034" />
+        <district name="双流县" countyId="2035" />
+        <district name="郫县" countyId="2036" />
+        <district name="大邑县" countyId="2037" />
+        <district name="蒲江县" countyId="2038" />
+        <district name="新津县" countyId="2039" />
+        <district name="都江堰市" countyId="2040" />
+        <district name="彭州市" countyId="2041" />
+        <district name="邛崃市" countyId="2042" />
+        <district name="崇州市" countyId="2043" />
+    </city>
+    <city name="自贡市">
+        <district name="自流井区" countyId="2044" />
+        <district name="贡井区" countyId="2045" />
+        <district name="大安区" countyId="2046" />
+        <district name="沿滩区" countyId="2047" />
+        <district name="荣县" countyId="2048" />
+        <district name="富顺县" countyId="2049" />
+    </city>
+    <city name="攀枝花市">
+        <district name="东区" countyId="2050" />
+        <district name="西区" countyId="2051" />
+        <district name="仁和区" countyId="2052" />
+        <district name="米易县" countyId="2053" />
+        <district name="盐边县" countyId="2054" />
+    </city>
+    <city name="泸州市">
+        <district name="江阳区" countyId="2055" />
+        <district name="纳溪区" countyId="2056" />
+        <district name="龙马潭区" countyId="2057" />
+        <district name="泸县" countyId="2058" />
+        <district name="合江县" countyId="2059" />
+        <district name="叙永县" countyId="2060" />
+        <district name="古蔺县" countyId="2061" />
+    </city>
+    <city name="德阳市">
+        <district name="旌阳区" countyId="2062" />
+        <district name="中江县" countyId="2063" />
+        <district name="罗江县" countyId="2064" />
+        <district name="广汉市" countyId="2065" />
+        <district name="什邡市" countyId="2066" />
+        <district name="绵竹市" countyId="2067" />
+    </city>
+    <city name="绵阳市">
+        <district name="涪城区" countyId="2068" />
+        <district name="游仙区" countyId="2069" />
+        <district name="三台县" countyId="2070" />
+        <district name="盐亭县" countyId="2071" />
+        <district name="安县" countyId="2072" />
+        <district name="梓潼县" countyId="2073" />
+        <district name="北川羌族自治县" countyId="2074" />
+        <district name="平武县" countyId="2075" />
+        <district name="江油市" countyId="2076" />
+    </city>
+    <city name="广元市">
+        <district name="利州区" countyId="2077" />
+        <district name="元坝区" countyId="2078" />
+        <district name="朝天区" countyId="2079" />
+        <district name="旺苍县" countyId="2080" />
+        <district name="青川县" countyId="2081" />
+        <district name="剑阁县" countyId="2082" />
+        <district name="苍溪县" countyId="2083" />
+    </city>
+    <city name="遂宁市">
+        <district name="船山区" countyId="2084" />
+        <district name="安居区" countyId="2085" />
+        <district name="蓬溪县" countyId="2086" />
+        <district name="射洪县" countyId="2087" />
+        <district name="大英县" countyId="2088" />
+    </city>
+    <city name="内江市">
+        <district name="市中区" countyId="2089" />
+        <district name="东兴区" countyId="2090" />
+        <district name="威远县" countyId="2091" />
+        <district name="资中县" countyId="2092" />
+        <district name="隆昌县" countyId="2093" />
+    </city>
+    <city name="乐山市">
+        <district name="市中区" countyId="2094" />
+        <district name="沙湾区" countyId="2095" />
+        <district name="五通桥区" countyId="2096" />
+        <district name="金口河区" countyId="2097" />
+        <district name="犍为县" countyId="2098" />
+        <district name="井研县" countyId="2099" />
+        <district name="夹江县" countyId="2100" />
+        <district name="沐川县" countyId="2101" />
+        <district name="峨边彝族自治县" countyId="2102" />
+        <district name="马边彝族自治县" countyId="2103" />
+        <district name="峨眉山市" countyId="2104" />
+    </city>
+    <city name="南充市">
+        <district name="顺庆区" countyId="2105" />
+        <district name="高坪区" countyId="2106" />
+        <district name="嘉陵区" countyId="2107" />
+        <district name="南部县" countyId="2108" />
+        <district name="营山县" countyId="2109" />
+        <district name="蓬安县" countyId="2110" />
+        <district name="仪陇县" countyId="2111" />
+        <district name="西充县" countyId="2112" />
+        <district name="阆中市" countyId="2113" />
+    </city>
+    <city name="眉山市">
+        <district name="东坡区" countyId="2114" />
+        <district name="仁寿县" countyId="2115" />
+        <district name="彭山县" countyId="2116" />
+        <district name="洪雅县" countyId="2117" />
+        <district name="丹棱县" countyId="2118" />
+        <district name="青神县" countyId="2119" />
+    </city>
+    <city name="宜宾市">
+        <district name="翠屏区" countyId="2120" />
+        <district name="南溪区" countyId="2121" />
+        <district name="宜宾县" countyId="2122" />
+        <district name="江安县" countyId="2123" />
+        <district name="长宁县" countyId="2124" />
+        <district name="高县" countyId="2125" />
+        <district name="珙县" countyId="2126" />
+        <district name="筠连县" countyId="2127" />
+        <district name="兴文县" countyId="2128" />
+        <district name="屏山县" countyId="2129" />
+    </city>
+    <city name="广安市">
+        <district name="广安区" countyId="2130" />
+        <district name="前锋区" countyId="2131" />
+        <district name="岳池县" countyId="2132" />
+        <district name="武胜县" countyId="2133" />
+        <district name="邻水县" countyId="2134" />
+        <district name="华蓥市" countyId="2135" />
+    </city>
+    <city name="达州市">
+        <district name="通川区" countyId="2136" />
+        <district name="达川区" countyId="2137" />
+        <district name="宣汉县" countyId="2138" />
+        <district name="开江县" countyId="2139" />
+        <district name="大竹县" countyId="2140" />
+        <district name="渠县" countyId="2141" />
+        <district name="万源市" countyId="2142" />
+    </city>
+    <city name="雅安市">
+        <district name="雨城区" countyId="2143" />
+        <district name="名山区" countyId="2144" />
+        <district name="荥经县" countyId="2145" />
+        <district name="汉源县" countyId="2146" />
+        <district name="石棉县" countyId="2147" />
+        <district name="天全县" countyId="2148" />
+        <district name="芦山县" countyId="2149" />
+        <district name="宝兴县" countyId="2150" />
+    </city>
+    <city name="巴中市">
+        <district name="巴州区" countyId="2151" />
+        <district name="恩阳区" countyId="2152" />
+        <district name="通江县" countyId="2153" />
+        <district name="南江县" countyId="2154" />
+        <district name="平昌县" countyId="2155" />
+    </city>
+    <city name="资阳市">
+        <district name="雁江区" countyId="2156" />
+        <district name="安岳县" countyId="2157" />
+        <district name="乐至县" countyId="2158" />
+        <district name="简阳市" countyId="2159" />
+    </city>
+    <city name="阿坝藏族羌族自治州">
+        <district name="汶川县" countyId="2160" />
+        <district name="理县" countyId="2161" />
+        <district name="茂县" countyId="2162" />
+        <district name="松潘县" countyId="2163" />
+        <district name="九寨沟县" countyId="2164" />
+        <district name="金川县" countyId="2165" />
+        <district name="小金县" countyId="2166" />
+        <district name="黑水县" countyId="2167" />
+        <district name="马尔康县" countyId="2168" />
+        <district name="壤塘县" countyId="2169" />
+        <district name="阿坝县" countyId="2170" />
+        <district name="若尔盖县" countyId="2171" />
+        <district name="红原县" countyId="2172" />
+    </city>
+    <city name="甘孜藏族自治州">
+        <district name="康定县" countyId="2173" />
+        <district name="泸定县" countyId="2174" />
+        <district name="丹巴县" countyId="2175" />
+        <district name="九龙县" countyId="2176" />
+        <district name="雅江县" countyId="2177" />
+        <district name="道孚县" countyId="2178" />
+        <district name="炉霍县" countyId="2179" />
+        <district name="甘孜县" countyId="2180" />
+        <district name="新龙县" countyId="2181" />
+        <district name="德格县" countyId="2182" />
+        <district name="白玉县" countyId="2183" />
+        <district name="石渠县" countyId="2184" />
+        <district name="色达县" countyId="2185" />
+        <district name="理塘县" countyId="2186" />
+        <district name="巴塘县" countyId="2187" />
+        <district name="乡城县" countyId="2188" />
+        <district name="稻城县" countyId="2189" />
+        <district name="得荣县" countyId="2190" />
+    </city>
+    <city name="凉山彝族自治州">
+        <district name="西昌市" countyId="2191" />
+        <district name="木里藏族自治县" countyId="2192" />
+        <district name="盐源县" countyId="2193" />
+        <district name="德昌县" countyId="2194" />
+        <district name="会理县" countyId="2195" />
+        <district name="会东县" countyId="2196" />
+        <district name="宁南县" countyId="2197" />
+        <district name="普格县" countyId="2198" />
+        <district name="布拖县" countyId="2199" />
+        <district name="金阳县" countyId="2200" />
+        <district name="昭觉县" countyId="2201" />
+        <district name="喜德县" countyId="2202" />
+        <district name="冕宁县" countyId="2203" />
+        <district name="越西县" countyId="2204" />
+        <district name="甘洛县" countyId="2205" />
+        <district name="美姑县" countyId="2206" />
+        <district name="雷波县" countyId="2207" />
+    </city>
+</province>
+<province name="贵州省">
+    <city name="贵阳市">
+        <district name="南明区" countyId="2208" />
+        <district name="云岩区" countyId="2209" />
+        <district name="花溪区" countyId="2210" />
+        <district name="乌当区" countyId="2211" />
+        <district name="白云区" countyId="2212" />
+        <district name="观山湖区" countyId="2213" />
+        <district name="开阳县" countyId="2214" />
+        <district name="息烽县" countyId="2215" />
+        <district name="修文县" countyId="2216" />
+        <district name="清镇市" countyId="2217" />
+    </city>
+    <city name="六盘水市">
+        <district name="钟山区" countyId="2218" />
+        <district name="六枝特区" countyId="2219" />
+        <district name="水城县" countyId="2220" />
+        <district name="盘县" countyId="2221" />
+    </city>
+    <city name="遵义市">
+        <district name="红花岗区" countyId="2222" />
+        <district name="汇川区" countyId="2223" />
+        <district name="遵义县" countyId="2224" />
+        <district name="桐梓县" countyId="2225" />
+        <district name="绥阳县" countyId="2226" />
+        <district name="正安县" countyId="2227" />
+        <district name="道真仡佬族苗族自治县" countyId="2228" />
+        <district name="务川仡佬族苗族自治县" countyId="2229" />
+        <district name="凤冈县" countyId="2230" />
+        <district name="湄潭县" countyId="2231" />
+        <district name="余庆县" countyId="2232" />
+        <district name="习水县" countyId="2233" />
+        <district name="赤水市" countyId="2234" />
+        <district name="仁怀市" countyId="2235" />
+    </city>
+    <city name="安顺市">
+        <district name="西秀区" countyId="2236" />
+        <district name="平坝县" countyId="2237" />
+        <district name="普定县" countyId="2238" />
+        <district name="镇宁布依族苗族自治县" countyId="2239" />
+        <district name="关岭布依族苗族自治县" countyId="2240" />
+        <district name="紫云苗族布依族自治县" countyId="2241" />
+    </city>
+    <city name="毕节市">
+        <district name="七星关区" countyId="2242" />
+        <district name="大方县" countyId="2243" />
+        <district name="黔西县" countyId="2244" />
+        <district name="金沙县" countyId="2245" />
+        <district name="织金县" countyId="2246" />
+        <district name="纳雍县" countyId="2247" />
+        <district name="威宁彝族回族苗族自治县" countyId="2248" />
+        <district name="赫章县" countyId="2249" />
+    </city>
+    <city name="铜仁市">
+        <district name="碧江区" countyId="2250" />
+        <district name="万山区" countyId="2251" />
+        <district name="江口县" countyId="2252" />
+        <district name="玉屏侗族自治县" countyId="2253" />
+        <district name="石阡县" countyId="2254" />
+        <district name="思南县" countyId="2255" />
+        <district name="印江土家族苗族自治县" countyId="2256" />
+        <district name="德江县" countyId="2257" />
+        <district name="沿河土家族自治县" countyId="2258" />
+        <district name="松桃苗族自治县" countyId="2259" />
+    </city>
+    <city name="黔西南布依族苗族自治州">
+        <district name="兴义市" countyId="2260" />
+        <district name="兴仁县" countyId="2261" />
+        <district name="普安县" countyId="2262" />
+        <district name="晴隆县" countyId="2263" />
+        <district name="贞丰县" countyId="2264" />
+        <district name="望谟县" countyId="2265" />
+        <district name="册亨县" countyId="2266" />
+        <district name="安龙县" countyId="2267" />
+    </city>
+    <city name="黔东南苗族侗族自治州">
+        <district name="凯里市" countyId="2268" />
+        <district name="黄平县" countyId="2269" />
+        <district name="施秉县" countyId="2270" />
+        <district name="三穗县" countyId="2271" />
+        <district name="镇远县" countyId="2272" />
+        <district name="岑巩县" countyId="2273" />
+        <district name="天柱县" countyId="2274" />
+        <district name="锦屏县" countyId="2275" />
+        <district name="剑河县" countyId="2276" />
+        <district name="台江县" countyId="2277" />
+        <district name="黎平县" countyId="2278" />
+        <district name="榕江县" countyId="2279" />
+        <district name="从江县" countyId="2280" />
+        <district name="雷山县" countyId="2281" />
+        <district name="麻江县" countyId="2282" />
+        <district name="丹寨县" countyId="2283" />
+    </city>
+    <city name="黔南布依族苗族自治州">
+        <district name="都匀市" countyId="2284" />
+        <district name="福泉市" countyId="2285" />
+        <district name="荔波县" countyId="2286" />
+        <district name="贵定县" countyId="2287" />
+        <district name="瓮安县" countyId="2288" />
+        <district name="独山县" countyId="2289" />
+        <district name="平塘县" countyId="2290" />
+        <district name="罗甸县" countyId="2291" />
+        <district name="长顺县" countyId="2292" />
+        <district name="龙里县" countyId="2293" />
+        <district name="惠水县" countyId="2294" />
+        <district name="三都水族自治县" countyId="2295" />
+    </city>
+</province>
+<province name="云南省">
+    <city name="昆明市">
+        <district name="五华区" countyId="2296" />
+        <district name="盘龙区" countyId="2297" />
+        <district name="官渡区" countyId="2298" />
+        <district name="西山区" countyId="2299" />
+        <district name="东川区" countyId="2300" />
+        <district name="呈贡区" countyId="2301" />
+        <district name="晋宁县" countyId="2302" />
+        <district name="富民县" countyId="2303" />
+        <district name="宜良县" countyId="2304" />
+        <district name="石林彝族自治县" countyId="2305" />
+        <district name="嵩明县" countyId="2306" />
+        <district name="禄劝彝族苗族自治县" countyId="2307" />
+        <district name="寻甸回族彝族自治县" countyId="2308" />
+        <district name="安宁市" countyId="2309" />
+    </city>
+    <city name="曲靖市">
+        <district name="麒麟区" countyId="2310" />
+        <district name="马龙县" countyId="2311" />
+        <district name="陆良县" countyId="2312" />
+        <district name="师宗县" countyId="2313" />
+        <district name="罗平县" countyId="2314" />
+        <district name="富源县" countyId="2315" />
+        <district name="会泽县" countyId="2316" />
+        <district name="沾益县" countyId="2317" />
+        <district name="宣威市" countyId="2318" />
+    </city>
+    <city name="玉溪市">
+        <district name="红塔区" countyId="2319" />
+        <district name="江川县" countyId="2320" />
+        <district name="澄江县" countyId="2321" />
+        <district name="通海县" countyId="2322" />
+        <district name="华宁县" countyId="2323" />
+        <district name="易门县" countyId="2324" />
+        <district name="峨山彝族自治县" countyId="2325" />
+        <district name="新平彝族傣族自治县" countyId="2326" />
+        <district name="元江哈尼族彝族傣族自治县" countyId="2327" />
+    </city>
+    <city name="保山市">
+        <district name="隆阳区" countyId="2328" />
+        <district name="施甸县" countyId="2329" />
+        <district name="腾冲县" countyId="2330" />
+        <district name="龙陵县" countyId="2331" />
+        <district name="昌宁县" countyId="2332" />
+    </city>
+    <city name="昭通市">
+        <district name="昭阳区" countyId="2333" />
+        <district name="鲁甸县" countyId="2334" />
+        <district name="巧家县" countyId="2335" />
+        <district name="盐津县" countyId="2336" />
+        <district name="大关县" countyId="2337" />
+        <district name="永善县" countyId="2338" />
+        <district name="绥江县" countyId="2339" />
+        <district name="镇雄县" countyId="2340" />
+        <district name="彝良县" countyId="2341" />
+        <district name="威信县" countyId="2342" />
+        <district name="水富县" countyId="2343" />
+    </city>
+    <city name="丽江市">
+        <district name="古城区" countyId="2344" />
+        <district name="玉龙纳西族自治县" countyId="2345" />
+        <district name="永胜县" countyId="2346" />
+        <district name="华坪县" countyId="2347" />
+        <district name="宁蒗彝族自治县" countyId="2348" />
+    </city>
+    <city name="普洱市">
+        <district name="思茅区" countyId="2349" />
+        <district name="宁洱哈尼族彝族自治县" countyId="2350" />
+        <district name="墨江哈尼族自治县" countyId="2351" />
+        <district name="景东彝族自治县" countyId="2352" />
+        <district name="景谷傣族彝族自治县" countyId="2353" />
+        <district name="镇沅彝族哈尼族拉祜族自治县" countyId="2354" />
+        <district name="江城哈尼族彝族自治县" countyId="2355" />
+        <district name="孟连傣族拉祜族佤族自治县" countyId="2356" />
+        <district name="澜沧拉祜族自治县" countyId="2357" />
+        <district name="西盟佤族自治县" countyId="2358" />
+    </city>
+    <city name="临沧市">
+        <district name="临翔区" countyId="2359" />
+        <district name="凤庆县" countyId="2360" />
+        <district name="云县" countyId="2361" />
+        <district name="永德县" countyId="2362" />
+        <district name="镇康县" countyId="2363" />
+        <district name="双江拉祜族佤族布朗族傣族自治县" countyId="2364" />
+        <district name="耿马傣族佤族自治县" countyId="2365" />
+        <district name="沧源佤族自治县" countyId="2366" />
+    </city>
+    <city name="楚雄彝族自治州">
+        <district name="楚雄市" countyId="2367" />
+        <district name="双柏县" countyId="2368" />
+        <district name="牟定县" countyId="2369" />
+        <district name="南华县" countyId="2370" />
+        <district name="姚安县" countyId="2371" />
+        <district name="大姚县" countyId="2372" />
+        <district name="永仁县" countyId="2373" />
+        <district name="元谋县" countyId="2374" />
+        <district name="武定县" countyId="2375" />
+        <district name="禄丰县" countyId="2376" />
+    </city>
+    <city name="红河哈尼族彝族自治州">
+        <district name="个旧市" countyId="2377" />
+        <district name="开远市" countyId="2378" />
+        <district name="蒙自市" countyId="2379" />
+        <district name="弥勒市" countyId="2380" />
+        <district name="屏边苗族自治县" countyId="2381" />
+        <district name="建水县" countyId="2382" />
+        <district name="石屏县" countyId="2383" />
+        <district name="泸西县" countyId="2384" />
+        <district name="元阳县" countyId="2385" />
+        <district name="红河县" countyId="2386" />
+        <district name="金平苗族瑶族傣族自治县" countyId="2387" />
+        <district name="绿春县" countyId="2388" />
+        <district name="河口瑶族自治县" countyId="2389" />
+    </city>
+    <city name="文山壮族苗族自治州">
+        <district name="文山市" countyId="2390" />
+        <district name="砚山县" countyId="2391" />
+        <district name="西畴县" countyId="2392" />
+        <district name="麻栗坡县" countyId="2393" />
+        <district name="马关县" countyId="2394" />
+        <district name="丘北县" countyId="2395" />
+        <district name="广南县" countyId="2396" />
+        <district name="富宁县" countyId="2397" />
+    </city>
+    <city name="西双版纳傣族自治州">
+        <district name="景洪市" countyId="2398" />
+        <district name="勐海县" countyId="2399" />
+        <district name="勐腊县" countyId="2400" />
+    </city>
+    <city name="大理白族自治州">
+        <district name="大理市" countyId="2401" />
+        <district name="漾濞彝族自治县" countyId="2402" />
+        <district name="祥云县" countyId="2403" />
+        <district name="宾川县" countyId="2404" />
+        <district name="弥渡县" countyId="2405" />
+        <district name="南涧彝族自治县" countyId="2406" />
+        <district name="巍山彝族回族自治县" countyId="2407" />
+        <district name="永平县" countyId="2408" />
+        <district name="云龙县" countyId="2409" />
+        <district name="洱源县" countyId="2410" />
+        <district name="剑川县" countyId="2411" />
+        <district name="鹤庆县" countyId="2412" />
+    </city>
+    <city name="德宏傣族景颇族自治州">
+        <district name="瑞丽市" countyId="2413" />
+        <district name="芒市" countyId="2414" />
+        <district name="梁河县" countyId="2415" />
+        <district name="盈江县" countyId="2416" />
+        <district name="陇川县" countyId="2417" />
+    </city>
+    <city name="怒江傈僳族自治州">
+        <district name="泸水县" countyId="2418" />
+        <district name="福贡县" countyId="2419" />
+        <district name="贡山独龙族怒族自治县" countyId="2420" />
+        <district name="兰坪白族普米族自治县" countyId="2421" />
+    </city>
+    <city name="迪庆藏族自治州">
+        <district name="香格里拉县" countyId="2422" />
+        <district name="德钦县" countyId="2423" />
+        <district name="维西傈僳族自治县" countyId="2424" />
+    </city>
+</province>
+<province name="西藏">
+    <city name="拉萨市">
+        <district name="城关区" countyId="2425" />
+        <district name="林周县" countyId="2426" />
+        <district name="当雄县" countyId="2427" />
+        <district name="尼木县" countyId="2428" />
+        <district name="曲水县" countyId="2429" />
+        <district name="堆龙德庆县" countyId="2430" />
+        <district name="达孜县" countyId="2431" />
+        <district name="墨竹工卡县" countyId="2432" />
+    </city>
+    <city name="昌都地区">
+        <district name="昌都县" countyId="2433" />
+        <district name="江达县" countyId="2434" />
+        <district name="贡觉县" countyId="2435" />
+        <district name="类乌齐县" countyId="2436" />
+        <district name="丁青县" countyId="2437" />
+        <district name="察雅县" countyId="2438" />
+        <district name="八宿县" countyId="2439" />
+        <district name="左贡县" countyId="2440" />
+        <district name="芒康县" countyId="2441" />
+        <district name="洛隆县" countyId="2442" />
+        <district name="边坝县" countyId="2443" />
+    </city>
+    <city name="山南地区">
+        <district name="乃东县" countyId="2444" />
+        <district name="扎囊县" countyId="2445" />
+        <district name="贡嘎县" countyId="2446" />
+        <district name="桑日县" countyId="2447" />
+        <district name="琼结县" countyId="2448" />
+        <district name="曲松县" countyId="2449" />
+        <district name="措美县" countyId="2450" />
+        <district name="洛扎县" countyId="2451" />
+        <district name="加查县" countyId="2452" />
+        <district name="隆子县" countyId="2453" />
+        <district name="错那县" countyId="2454" />
+        <district name="浪卡子县" countyId="2455" />
+    </city>
+    <city name="日喀则地区">
+        <district name="日喀则市" countyId="2456" />
+        <district name="南木林县" countyId="2457" />
+        <district name="江孜县" countyId="2458" />
+        <district name="定日县" countyId="2459" />
+        <district name="萨迦县" countyId="2460" />
+        <district name="拉孜县" countyId="2461" />
+        <district name="昂仁县" countyId="2462" />
+        <district name="谢通门县" countyId="2463" />
+        <district name="白朗县" countyId="2464" />
+        <district name="仁布县" countyId="2465" />
+        <district name="康马县" countyId="2466" />
+        <district name="定结县" countyId="2467" />
+        <district name="仲巴县" countyId="2468" />
+        <district name="亚东县" countyId="2469" />
+        <district name="吉隆县" countyId="2470" />
+        <district name="聂拉木县" countyId="2471" />
+        <district name="萨嘎县" countyId="2472" />
+        <district name="岗巴县" countyId="2473" />
+    </city>
+    <city name="那曲地区">
+        <district name="那曲县" countyId="2474" />
+        <district name="嘉黎县" countyId="2475" />
+        <district name="比如县" countyId="2476" />
+        <district name="聂荣县" countyId="2477" />
+        <district name="安多县" countyId="2478" />
+        <district name="申扎县" countyId="2479" />
+        <district name="索县" countyId="2480" />
+        <district name="班戈县" countyId="2481" />
+        <district name="巴青县" countyId="2482" />
+        <district name="尼玛县" countyId="2483" />
+        <district name="双湖县" countyId="2484" />
+    </city>
+    <city name="阿里地区">
+        <district name="普兰县" countyId="2485" />
+        <district name="札达县" countyId="2486" />
+        <district name="噶尔县" countyId="2487" />
+        <district name="日土县" countyId="2488" />
+        <district name="革吉县" countyId="2489" />
+        <district name="改则县" countyId="2490" />
+        <district name="措勤县" countyId="2491" />
+    </city>
+    <city name="林芝地区">
+        <district name="林芝县" countyId="2492" />
+        <district name="工布江达县" countyId="2493" />
+        <district name="米林县" countyId="2494" />
+        <district name="墨脱县" countyId="2495" />
+        <district name="波密县" countyId="2496" />
+        <district name="察隅县" countyId="2497" />
+        <district name="朗县" countyId="2498" />
+    </city>
+</province>
+<province name="陕西省">
+    <city name="西安市">
+        <district name="新城区" countyId="2499" />
+        <district name="碑林区" countyId="2500" />
+        <district name="莲湖区" countyId="2501" />
+        <district name="灞桥区" countyId="2502" />
+        <district name="未央区" countyId="2503" />
+        <district name="雁塔区" countyId="2504" />
+        <district name="阎良区" countyId="2505" />
+        <district name="临潼区" countyId="2506" />
+        <district name="长安区" countyId="2507" />
+        <district name="蓝田县" countyId="2508" />
+        <district name="周至县" countyId="2509" />
+        <district name="户县" countyId="2510" />
+        <district name="高陵县" countyId="2511" />
+    </city>
+    <city name="铜川市">
+        <district name="王益区" countyId="2512" />
+        <district name="印台区" countyId="2513" />
+        <district name="耀州区" countyId="2514" />
+        <district name="宜君县" countyId="2515" />
+    </city>
+    <city name="宝鸡市">
+        <district name="渭滨区" countyId="2516" />
+        <district name="金台区" countyId="2517" />
+        <district name="陈仓区" countyId="2518" />
+        <district name="凤翔县" countyId="2519" />
+        <district name="岐山县" countyId="2520" />
+        <district name="扶风县" countyId="2521" />
+        <district name="眉县" countyId="2522" />
+        <district name="陇县" countyId="2523" />
+        <district name="千阳县" countyId="2524" />
+        <district name="麟游县" countyId="2525" />
+        <district name="凤县" countyId="2526" />
+        <district name="太白县" countyId="2527" />
+    </city>
+    <city name="咸阳市">
+        <district name="秦都区" countyId="2528" />
+        <district name="杨陵区" countyId="2529" />
+        <district name="渭城区" countyId="2530" />
+        <district name="三原县" countyId="2531" />
+        <district name="泾阳县" countyId="2532" />
+        <district name="乾县" countyId="2533" />
+        <district name="礼泉县" countyId="2534" />
+        <district name="永寿县" countyId="2535" />
+        <district name="彬县" countyId="2536" />
+        <district name="长武县" countyId="2537" />
+        <district name="旬邑县" countyId="2538" />
+        <district name="淳化县" countyId="2539" />
+        <district name="武功县" countyId="2540" />
+        <district name="兴平市" countyId="2541" />
+    </city>
+    <city name="渭南市">
+        <district name="临渭区" countyId="2542" />
+        <district name="华县" countyId="2543" />
+        <district name="潼关县" countyId="2544" />
+        <district name="大荔县" countyId="2545" />
+        <district name="合阳县" countyId="2546" />
+        <district name="澄城县" countyId="2547" />
+        <district name="蒲城县" countyId="2548" />
+        <district name="白水县" countyId="2549" />
+        <district name="富平县" countyId="2550" />
+        <district name="韩城市" countyId="2551" />
+        <district name="华阴市" countyId="2552" />
+    </city>
+    <city name="延安市">
+        <district name="宝塔区" countyId="2553" />
+        <district name="延长县" countyId="2554" />
+        <district name="延川县" countyId="2555" />
+        <district name="子长县" countyId="2556" />
+        <district name="安塞县" countyId="2557" />
+        <district name="志丹县" countyId="2558" />
+        <district name="吴起县" countyId="2559" />
+        <district name="甘泉县" countyId="2560" />
+        <district name="富县" countyId="2561" />
+        <district name="洛川县" countyId="2562" />
+        <district name="宜川县" countyId="2563" />
+        <district name="黄龙县" countyId="2564" />
+        <district name="黄陵县" countyId="2565" />
+    </city>
+    <city name="汉中市">
+        <district name="汉台区" countyId="2566" />
+        <district name="南郑县" countyId="2567" />
+        <district name="城固县" countyId="2568" />
+        <district name="洋县" countyId="2569" />
+        <district name="西乡县" countyId="2570" />
+        <district name="勉县" countyId="2571" />
+        <district name="宁强县" countyId="2572" />
+        <district name="略阳县" countyId="2573" />
+        <district name="镇巴县" countyId="2574" />
+        <district name="留坝县" countyId="2575" />
+        <district name="佛坪县" countyId="2576" />
+    </city>
+    <city name="榆林市">
+        <district name="榆阳区" countyId="2577" />
+        <district name="神木县" countyId="2578" />
+        <district name="府谷县" countyId="2579" />
+        <district name="横山县" countyId="2580" />
+        <district name="靖边县" countyId="2581" />
+        <district name="定边县" countyId="2582" />
+        <district name="绥德县" countyId="2583" />
+        <district name="米脂县" countyId="2584" />
+        <district name="佳县" countyId="2585" />
+        <district name="吴堡县" countyId="2586" />
+        <district name="清涧县" countyId="2587" />
+        <district name="子洲县" countyId="2588" />
+    </city>
+    <city name="安康市">
+        <district name="汉滨区" countyId="2589" />
+        <district name="汉阴县" countyId="2590" />
+        <district name="石泉县" countyId="2591" />
+        <district name="宁陕县" countyId="2592" />
+        <district name="紫阳县" countyId="2593" />
+        <district name="岚皋县" countyId="2594" />
+        <district name="平利县" countyId="2595" />
+        <district name="镇坪县" countyId="2596" />
+        <district name="旬阳县" countyId="2597" />
+        <district name="白河县" countyId="2598" />
+    </city>
+    <city name="商洛市">
+        <district name="商州区" countyId="2599" />
+        <district name="洛南县" countyId="2600" />
+        <district name="丹凤县" countyId="2601" />
+        <district name="商南县" countyId="2602" />
+        <district name="山阳县" countyId="2603" />
+        <district name="镇安县" countyId="2604" />
+        <district name="柞水县" countyId="2605" />
+    </city>
+</province>
+<province name="甘肃省">
+    <city name="兰州市">
+        <district name="城关区" countyId="2606" />
+        <district name="七里河区" countyId="2607" />
+        <district name="西固区" countyId="2608" />
+        <district name="安宁区" countyId="2609" />
+        <district name="红古区" countyId="2610" />
+        <district name="永登县" countyId="2611" />
+        <district name="皋兰县" countyId="2612" />
+        <district name="榆中县" countyId="2613" />
+    </city>
+    <city name="嘉峪关市">
+        <district name="市辖区" countyId="2614" />
+    </city>
+    <city name="金昌市">
+        <district name="金川区" countyId="2615" />
+        <district name="永昌县" countyId="2616" />
+    </city>
+    <city name="白银市">
+        <district name="白银区" countyId="2617" />
+        <district name="平川区" countyId="2618" />
+        <district name="靖远县" countyId="2619" />
+        <district name="会宁县" countyId="2620" />
+        <district name="景泰县" countyId="2621" />
+    </city>
+    <city name="天水市">
+        <district name="秦州区" countyId="2622" />
+        <district name="麦积区" countyId="2623" />
+        <district name="清水县" countyId="2624" />
+        <district name="秦安县" countyId="2625" />
+        <district name="甘谷县" countyId="2626" />
+        <district name="武山县" countyId="2627" />
+        <district name="张家川回族自治县" countyId="2628" />
+    </city>
+    <city name="武威市">
+        <district name="凉州区" countyId="2629" />
+        <district name="民勤县" countyId="2630" />
+        <district name="古浪县" countyId="2631" />
+        <district name="天祝藏族自治县" countyId="2632" />
+    </city>
+    <city name="张掖市">
+        <district name="甘州区" countyId="2633" />
+        <district name="肃南裕固族自治县" countyId="2634" />
+        <district name="民乐县" countyId="2635" />
+        <district name="临泽县" countyId="2636" />
+        <district name="高台县" countyId="2637" />
+        <district name="山丹县" countyId="2638" />
+    </city>
+    <city name="平凉市">
+        <district name="崆峒区" countyId="2639" />
+        <district name="泾川县" countyId="2640" />
+        <district name="灵台县" countyId="2641" />
+        <district name="崇信县" countyId="2642" />
+        <district name="华亭县" countyId="2643" />
+        <district name="庄浪县" countyId="2644" />
+        <district name="静宁县" countyId="2645" />
+    </city>
+    <city name="酒泉市">
+        <district name="肃州区" countyId="2646" />
+        <district name="金塔县" countyId="2647" />
+        <district name="瓜州县" countyId="2648" />
+        <district name="肃北蒙古族自治县" countyId="2649" />
+        <district name="阿克塞哈萨克族自治县" countyId="2650" />
+        <district name="玉门市" countyId="2651" />
+        <district name="敦煌市" countyId="2652" />
+    </city>
+    <city name="庆阳市">
+        <district name="西峰区" countyId="2653" />
+        <district name="庆城县" countyId="2654" />
+        <district name="环县" countyId="2655" />
+        <district name="华池县" countyId="2656" />
+        <district name="合水县" countyId="2657" />
+        <district name="正宁县" countyId="2658" />
+        <district name="宁县" countyId="2659" />
+        <district name="镇原县" countyId="2660" />
+    </city>
+    <city name="定西市">
+        <district name="安定区" countyId="2661" />
+        <district name="通渭县" countyId="2662" />
+        <district name="陇西县" countyId="2663" />
+        <district name="渭源县" countyId="2664" />
+        <district name="临洮县" countyId="2665" />
+        <district name="漳县" countyId="2666" />
+        <district name="岷县" countyId="2667" />
+    </city>
+    <city name="陇南市">
+        <district name="武都区" countyId="2668" />
+        <district name="成县" countyId="2669" />
+        <district name="文县" countyId="2670" />
+        <district name="宕昌县" countyId="2671" />
+        <district name="康县" countyId="2672" />
+        <district name="西和县" countyId="2673" />
+        <district name="礼县" countyId="2674" />
+        <district name="徽县" countyId="2675" />
+        <district name="两当县" countyId="2676" />
+    </city>
+    <city name="临夏回族自治州">
+        <district name="临夏市" countyId="2677" />
+        <district name="临夏县" countyId="2678" />
+        <district name="康乐县" countyId="2679" />
+        <district name="永靖县" countyId="2680" />
+        <district name="广河县" countyId="2681" />
+        <district name="和政县" countyId="2682" />
+        <district name="东乡族自治县" countyId="2683" />
+        <district name="积石山保安族东乡族撒拉族自治县" countyId="2684" />
+    </city>
+    <city name="甘南藏族自治州">
+        <district name="合作市" countyId="2685" />
+        <district name="临潭县" countyId="2686" />
+        <district name="卓尼县" countyId="2687" />
+        <district name="舟曲县" countyId="2688" />
+        <district name="迭部县" countyId="2689" />
+        <district name="玛曲县" countyId="2690" />
+        <district name="碌曲县" countyId="2691" />
+        <district name="夏河县" countyId="2692" />
+    </city>
+</province>
+<province name="青海省">
+    <city name="西宁市">
+        <district name="城东区" countyId="2693" />
+        <district name="城中区" countyId="2694" />
+        <district name="城西区" countyId="2695" />
+        <district name="城北区" countyId="2696" />
+        <district name="大通回族土族自治县" countyId="2697" />
+        <district name="湟中县" countyId="2698" />
+        <district name="湟源县" countyId="2699" />
+    </city>
+    <city name="海东市">
+        <district name="乐都区" countyId="2700" />
+        <district name="平安县" countyId="2701" />
+        <district name="民和回族土族自治县" countyId="2702" />
+        <district name="互助土族自治县" countyId="2703" />
+        <district name="化隆回族自治县" countyId="2704" />
+        <district name="循化撒拉族自治县" countyId="2705" />
+    </city>
+    <city name="海北藏族自治州">
+        <district name="门源回族自治县" countyId="2706" />
+        <district name="祁连县" countyId="2707" />
+        <district name="海晏县" countyId="2708" />
+        <district name="刚察县" countyId="2709" />
+    </city>
+    <city name="黄南藏族自治州">
+        <district name="同仁县" countyId="2710" />
+        <district name="尖扎县" countyId="2711" />
+        <district name="泽库县" countyId="2712" />
+        <district name="河南蒙古族自治县" countyId="2713" />
+    </city>
+    <city name="海南藏族自治州">
+        <district name="共和县" countyId="2714" />
+        <district name="同德县" countyId="2715" />
+        <district name="贵德县" countyId="2716" />
+        <district name="兴海县" countyId="2717" />
+        <district name="贵南县" countyId="2718" />
+    </city>
+    <city name="果洛藏族自治州">
+        <district name="玛沁县" countyId="2719" />
+        <district name="班玛县" countyId="2720" />
+        <district name="甘德县" countyId="2721" />
+        <district name="达日县" countyId="2722" />
+        <district name="久治县" countyId="2723" />
+        <district name="玛多县" countyId="2724" />
+    </city>
+    <city name="玉树藏族自治州">
+        <district name="玉树市" countyId="2725" />
+        <district name="杂多县" countyId="2726" />
+        <district name="称多县" countyId="2727" />
+        <district name="治多县" countyId="2728" />
+        <district name="囊谦县" countyId="2729" />
+        <district name="曲麻莱县" countyId="2730" />
+    </city>
+    <city name="海西蒙古族藏族自治州">
+        <district name="格尔木市" countyId="2731" />
+        <district name="德令哈市" countyId="2732" />
+        <district name="乌兰县" countyId="2733" />
+        <district name="都兰县" countyId="2734" />
+        <district name="天峻县" countyId="2735" />
+    </city>
+</province>
+<province name="宁夏">
+    <city name="银川市">
+        <district name="兴庆区" countyId="2736" />
+        <district name="西夏区" countyId="2737" />
+        <district name="金凤区" countyId="2738" />
+        <district name="永宁县" countyId="2739" />
+        <district name="贺兰县" countyId="2740" />
+        <district name="灵武市" countyId="2741" />
+    </city>
+    <city name="石嘴山市">
+        <district name="大武口区" countyId="2742" />
+        <district name="惠农区" countyId="2743" />
+        <district name="平罗县" countyId="2744" />
+    </city>
+    <city name="吴忠市">
+        <district name="利通区" countyId="2745" />
+        <district name="红寺堡区" countyId="2746" />
+        <district name="盐池县" countyId="2747" />
+        <district name="同心县" countyId="2748" />
+        <district name="青铜峡市" countyId="2749" />
+    </city>
+    <city name="固原市">
+        <district name="原州区" countyId="2750" />
+        <district name="西吉县" countyId="2751" />
+        <district name="隆德县" countyId="2752" />
+        <district name="泾源县" countyId="2753" />
+        <district name="彭阳县" countyId="2754" />
+    </city>
+    <city name="中卫市">
+        <district name="沙坡头区" countyId="2755" />
+        <district name="中宁县" countyId="2756" />
+        <district name="海原县" countyId="2757" />
+    </city>
+</province>
+<province name="新疆">
+    <city name="乌鲁木齐市">
+        <district name="天山区" countyId="2758" />
+        <district name="沙依巴克区" countyId="2759" />
+        <district name="新市区" countyId="2760" />
+        <district name="水磨沟区" countyId="2761" />
+        <district name="头屯河区" countyId="2762" />
+        <district name="达坂城区" countyId="2763" />
+        <district name="米东区" countyId="2764" />
+        <district name="乌鲁木齐县" countyId="2765" />
+    </city>
+    <city name="克拉玛依市">
+        <district name="独山子区" countyId="2766" />
+        <district name="克拉玛依区" countyId="2767" />
+        <district name="白碱滩区" countyId="2768" />
+        <district name="乌尔禾区" countyId="2769" />
+    </city>
+    <city name="吐鲁番地区">
+        <district name="吐鲁番市" countyId="2770" />
+        <district name="鄯善县" countyId="2771" />
+        <district name="托克逊县" countyId="2772" />
+    </city>
+    <city name="哈密地区">
+        <district name="哈密市" countyId="2773" />
+        <district name="巴里坤哈萨克自治县" countyId="2774" />
+        <district name="伊吾县" countyId="2775" />
+    </city>
+    <city name="昌吉回族自治州">
+        <district name="昌吉市" countyId="2776" />
+        <district name="阜康市" countyId="2777" />
+        <district name="呼图壁县" countyId="2778" />
+        <district name="玛纳斯县" countyId="2779" />
+        <district name="奇台县" countyId="2780" />
+        <district name="吉木萨尔县" countyId="2781" />
+        <district name="木垒哈萨克自治县" countyId="2782" />
+    </city>
+    <city name="博尔塔拉蒙古自治州">
+        <district name="博乐市" countyId="2783" />
+        <district name="阿拉山口市" countyId="2784" />
+        <district name="精河县" countyId="2785" />
+        <district name="温泉县" countyId="2786" />
+    </city>
+    <city name="巴音郭楞蒙古自治州">
+        <district name="库尔勒市" countyId="2787" />
+        <district name="轮台县" countyId="2788" />
+        <district name="尉犁县" countyId="2789" />
+        <district name="若羌县" countyId="2790" />
+        <district name="且末县" countyId="2791" />
+        <district name="焉耆回族自治县" countyId="2792" />
+        <district name="和静县" countyId="2793" />
+        <district name="和硕县" countyId="2794" />
+        <district name="博湖县" countyId="2795" />
+    </city>
+    <city name="阿克苏地区">
+        <district name="阿克苏市" countyId="2796" />
+        <district name="温宿县" countyId="2797" />
+        <district name="库车县" countyId="2798" />
+        <district name="沙雅县" countyId="2799" />
+        <district name="新和县" countyId="2800" />
+        <district name="拜城县" countyId="2801" />
+        <district name="乌什县" countyId="2802" />
+        <district name="阿瓦提县" countyId="2803" />
+        <district name="柯坪县" countyId="2804" />
+    </city>
+    <city name="克孜勒苏柯尔克孜自治州">
+        <district name="阿图什市" countyId="2805" />
+        <district name="阿克陶县" countyId="2806" />
+        <district name="阿合奇县" countyId="2807" />
+        <district name="乌恰县" countyId="2808" />
+    </city>
+    <city name="喀什地区">
+        <district name="喀什市" countyId="2809" />
+        <district name="疏附县" countyId="2810" />
+        <district name="疏勒县" countyId="2811" />
+        <district name="英吉沙县" countyId="2812" />
+        <district name="泽普县" countyId="2813" />
+        <district name="莎车县" countyId="2814" />
+        <district name="叶城县" countyId="2815" />
+        <district name="麦盖提县" countyId="2816" />
+        <district name="岳普湖县" countyId="2817" />
+        <district name="伽师县" countyId="2818" />
+        <district name="巴楚县" countyId="2819" />
+        <district name="塔什库尔干塔吉克自治县" countyId="2820" />
+    </city>
+    <city name="和田地区">
+        <district name="和田市" countyId="2821" />
+        <district name="和田县" countyId="2822" />
+        <district name="墨玉县" countyId="2823" />
+        <district name="皮山县" countyId="2824" />
+        <district name="洛浦县" countyId="2825" />
+        <district name="策勒县" countyId="2826" />
+        <district name="于田县" countyId="2827" />
+        <district name="民丰县" countyId="2828" />
+    </city>
+    <city name="伊犁哈萨克自治州">
+        <district name="伊宁市" countyId="2829" />
+        <district name="奎屯市" countyId="2830" />
+        <district name="伊宁县" countyId="2831" />
+        <district name="察布查尔锡伯自治县" countyId="2832" />
+        <district name="霍城县" countyId="2833" />
+        <district name="巩留县" countyId="2834" />
+        <district name="新源县" countyId="2835" />
+        <district name="昭苏县" countyId="2836" />
+        <district name="特克斯县" countyId="2837" />
+        <district name="尼勒克县" countyId="2838" />
+    </city>
+    <city name="塔城地区">
+        <district name="塔城市" countyId="2839" />
+        <district name="乌苏市" countyId="2840" />
+        <district name="额敏县" countyId="2841" />
+        <district name="沙湾县" countyId="2842" />
+        <district name="托里县" countyId="2843" />
+        <district name="裕民县" countyId="2844" />
+        <district name="和布克赛尔蒙古自治县" countyId="2845" />
+    </city>
+    <city name="阿勒泰地区">
+        <district name="阿勒泰市" countyId="2846" />
+        <district name="布尔津县" countyId="2847" />
+        <district name="富蕴县" countyId="2848" />
+        <district name="福海县" countyId="2849" />
+        <district name="哈巴河县" countyId="2850" />
+        <district name="青河县" countyId="2851" />
+        <district name="吉木乃县" countyId="2852" />
+    </city>
+    <city name="自治区直辖县级行政区划">
+        <district name="石河子市" countyId="2853" />
+        <district name="阿拉尔市" countyId="2854" />
+        <district name="图木舒克市" countyId="2855" />
+        <district name="五家渠市" countyId="2856" />
+    </city>
+</province>
+</root>
