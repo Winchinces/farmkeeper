@@ -7,12 +7,9 @@ import android.text.Html;
 import android.text.InputFilter;
 import android.text.TextUtils;
 import android.text.TextWatcher;
-import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
-
-import com.squareup.okhttp.Request;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -20,13 +17,10 @@ import java.util.List;
 import farmkeeperfly.com.tiankuai.CustomerSelectDialog;
 import farmkeeperfly.com.tiankuai.MyGridView;
 import farmkeeperfly.com.tiankuai.R;
-import farmkeeperfly.com.tiankuai.ReturnBean;
 import farmkeeperfly.com.tiankuai.SelectPictureActivity;
 import farmkeeperfly.com.tiankuai.adapter.GridAdapter;
 import farmkeeperfly.com.tiankuai.base.BaseFragment;
 import farmkeeperfly.com.tiankuai.city.CityDialog;
-import farmkeeperfly.com.tiankuai.network.NetWorkManager;
-import farmkeeperfly.com.tiankuai.network.request.BaseRequest;
 import farmkeeperfly.com.tiankuai.network.utils.LogUtil;
 import farmkeeperfly.com.tiankuai.util.CustomTools;
 import farmkeeperfly.com.tiankuai.util.PhotoUtil;
@@ -124,7 +118,6 @@ public class CompletePlotDataFragment extends BaseFragment implements CityDialog
         });
         gridview.setAdapter(gridAdapter);
 
-        NetWorkManager.getInstance().test("1001","{\"geom\":\"POLYGON((116.307169 39.944259, 116.306174 39.94461, 116.305962 39.944253, 116.30692 39.943895, 116.307169 39.944259, 116.307169 39.944259))\", \"edit_tel\":\"xiemin\", \"farmname\":\"liuxp\", \"tel\":\"18611111111\", \"address\":\"XX村XX号\", \"area\":22.5, \"crop\":\"水稻\", \"obstacle\":\"\", \"photos\":\"\", \"remark\":\"about info2\", \"time\":1474592065, \"status\":1, \"slope\":1, \"type\":1}\n",smsCodeLinstener);
     }
 
     private void initData() {
@@ -287,30 +280,7 @@ public class CompletePlotDataFragment extends BaseFragment implements CityDialog
     }
 
 
-    private BaseRequest.Listener<ReturnBean> smsCodeLinstener = new BaseRequest.Listener<ReturnBean>() {
-        @Override
-        public void onResponse(ReturnBean result, boolean isFromCache) {
-            hindLoading();
-          /*  if (result.getStatus() ==
-          GlobalConstant.THE_ZERO) {  //短信验证码获取成功
-                Log.i(TAG, "+++smsSucceed");
-                CustomTools.showToast(getString(R.string.code_succeed), false);
-                startTime(login_bt_getVF);
-            } else {
-                CustomTools.showToast(result.getInfo(), false);
-                Log.i(TAG, "+++" + result.getInfo());
-            }*/
-        }
 
-        @Override
-        public void onFailure(int errorCode, Request response) {
-            hindLoading();
-          //  CustomTools.showToast(getResources().getString(R.string.login_code_err), false);
-            Log.d(TAG, "" + errorCode);
-        }
-
-
-    };
 
 
     @Override
